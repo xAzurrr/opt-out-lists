@@ -1,8 +1,25 @@
 # Server whitelist for Wabbajack
 
 GoogleIDs:
+    - 1-5AtR8PXFm34jQ6j9gD2H0o67nrpSrXb # Peeno the Mushroom 1.5
     - 1TEe9iSthw87_EW9MrSqB58N1h90HcN1k # Clarity TTW
-    - 1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu # Tammer's NIF-Bashed Armor Pack
+    - 1gylSOUxgfZZtZncOpG_vEr-shceAmcLA # New Reno Episode 3 Assets
+    - 1IObmTW15lo1DW5q-RioyeKbIO7yP_5cG # ESM for the above
+    - 140ouHxJSCj1e3SzX6o9vAsD0_XCNGHka # Transportalponder TTW
+    - 12NDJu8vqal7z1AURhn1nuSBRv6TXpqnj # Left My Heart LODGen Output 1
+    - 1fT7k67vv-K6QLhiJ9UrIMheJXuBewwNT # Left My Heart LODGen Output 2
+    - 1RDTzByiX1sXzhTJUt-zkrv8HYVC7oIqW
+    - 1IQ9zfjZeroxbGRL9d5FKSTU2KGZgNshs # Dragon Age list stuff
+    - 1xB0GxQqYAJRDDD412-OBoUstgTJ7NQjH
+    - 1Yl-Q-167y1WCAW4nYGuqiWKiSGDF-yYO # TFNR 2.6
+    - 13kctD8GfgTzG8CHvPOVpQrgwSzSPPYYE # TFNR 2.5
+    - 1x-fjZ0jTBemm46Lc1C7QAfKWYwoi3jLk # TFNR 2.7
+    - 1KTQQvefoVm-vMDknsFFs9nU28WheFtgs # TFNR 2.8
+    - 1h7kL8reuNbOnmOFAc7JCpQ2RB5yq2I9p # Armor and Headgear Repair Kits
+    - 1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM # SuperPele's Disordered Texture Pack
+    - 1ci3O7sX-e4YOk0y2_-4Jd2IlDC30hBJf # Securitrons HD
+    - 1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_ # Feral Ghouls HD
+    - 1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv # Ghouls HD
     - 1GLfvsWgBvGQ6qvSxUG2zPIDkhbjh12bA # Tales from Nirn TexGen Output
     - 1QTjZOjOSWiU-fcQ4__5rcgW2Ow53uEXw # Tales from Nirn DynDOLOD Output
     - 1poWvW8AlU7nUULotre9B17hIaWuOuMfe # Tales from Nirn .bat file used to automatically move files to directory
@@ -119,13 +136,68 @@ GoogleIDs:
     - 1dNsBIaXPNlZWoNMPbPpMjBUfnS4eFUsy # Zangdar Lux Final
     - 1ffvswEcf6MghF-PbTFL85ZTWELgBQakq # Zangdar Lux ENB Fix
     - 13kctD8GfgTzG8CHvPOVpQrgwSzSPPYYE # TNR2
-    - 1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu # Tammer's NIF-Bashed Armor Mega-Pack
+    - 100KlafE3tkv_sgqwaWJIvsLeihCZei2G # Metro Map Replacer
     - 1GDKOr9aeqeyfSjrbu5HyQsBUfmMCj2-x # Armor Stats Redux (Temporary)
     - 1Pz_MmmdJRe-p8w-noDLYtbtEY2kE-k3N # Ruvaak Dyndolod Output (chris)
+    - 1tE6fNPk4YFhGCms62xmICgQvOIwQNBNC # Ruvaak Bodyslide Output
     - 1UpnxL66aVuC6KUauAp_uaZy_iaQTK6-R # Ruvaak xLodGen Output
     - 1jSOksna-G6CXQGiHWER-bVJzAHXJmHcq # Ruvaak TexGen Output
     - 1Z1eFPYzBLLNBiOkLF0cNeuf7FwnnibNf # SexLab SexLife Voiced v1-02 BSA
-    
+    - 1n0IcJvANinCdmUr_8jwzIOAqyBoj8wKC # Crime and Punishment
+    - 1QHVkQYzuODU9GBjjvwByLHH5hOGalEHi # Morroblivion v66 Installer
+    - 10qv1L8SPqCFWVrtXIBt6HxtRgsnkXK0B # Morroblivion v66 Resources
+    - 1gmdogBYq_EVL3MC6rYWc-stnh5x6e5EC # Hit - Lever Action Anim Pack
+    - 1hfBglYRVeMN3NxITAdDgxdiEGqZAi-5i # Artifacts Revised - Textures
+    - 15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq # High Poly Head v1.4 (SE)
+    - 1C-Hdm1eoA_Tsj1Tik7VZxXFN3fbwXVEi # Unofficial Update for No Follower Attack collision AE
+    - 1QFpYovaDg7pr4bUpeSN4dBKR_QtT9dqu # Lux 5.0 Beta 1
+    - 0B4iEH8ar3jtxbFlkVzZSVHN0alk # SkyUI SDK
+    - 12Siwo7JsLw03mJBqXrhHkKOcqPmGPX9k # full_inu Armor Pack    
+    - 19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP # Cosmofujia's ER Black Knife & Godslayer's Greatsword
+    - 1ZEB7-JAPY5OuLESb8jbKLgl57tru5RbX # Cosmofujia's Elden Ring Spears
+    - 1wu9hwP_7QJC9tWxLwR8QU41txry5u9vA # Tullfx Bloodstorm
+    - 1A8ZQrzA675l1PcDJEOVe3j7rjcnHvp9q # mofu's Olivier Kenjutsu Sword v1.1
+    - 1MHmaAQnX89tssUziX9NZWoV66B_WwEBf # mofu's Olivier Kenjutsu Sword v2.0
+    - 14cix5FZNgPiAJV8mfwB2Yfcqchkd1KqJ # mofu's Olivier Kenjutsu Katana
+    - 1rX4INfO3ieWp25gPh0NiLPl1ktLoegZ9 # mofu's Olivier Kenjutsu Battleaxe and Warhammer
+    - 14WLQgjMaExudmcExtXUAfESc0eV_8k6N # SCAR/ADXP 1.4.3 sneak fix from maxsu
+    - 119dueF7ZpqU_Y3sdfL--1JISq8NFHm3v # Lux Orbis v3.0
+    - 1-YH4U7drt1el8qD8BGB8Q_na0sWmxfQg # Thief 1.2.2.1
+    - 1kG_pRhKGyl1uESaj60fsXD9dWmaXz-Z2 # Fixed Equip Sprint Bug Fix from Skyrim Guild
+    - 1M3KwLvdQ3XP9MUqHQ0CfqBMsWhli3LC0 # Thief 1.4.2 from https://www.loverslab.com/files/file/4027-thief/
+    - 1Mm-rZMjwpCIqeX2xFAsAXZxOWREIQhUM # SuperPele Texture pack for New Vegas
+    - 11TgwNgtbfM1A1AHyp5_C9lGXCeMPTAfn # attacko boss movesets
+    - 19muJYVcS_CwVOsQ9bQL_wWsYRz5W7BZI # Cosmofujia's ER Great Spears
+    - 11T5k_CAlFMoN9uwWuyRhdRprV7pGHb7n # Cosmofujia's ER Legendary Weapons
+    - 1DZMKj4B8FUeeAmhv7j3wA6yFQ2kg8w2w # Olivier Kenjutsu Sword MCO
+    - 1Idn2Y-_dTCoRtUrohb0zNS3Nea2CfheY # Olivier Kenjutsu Greatsword MCO
+    - 1PigoPEWDTgS66jKtYaeW_qDHHTXJ88wQ # [Dint999] BDOR Hairs SSE 0.14
+    - 1hUphVf6njuMmFWEbUdMJwjm0xspYtz6S # Dirt Roads Beta
+    - 19p27tl0P2FHMR0KAXVWgkB3LaapqWsuB # CH5 Fallout 4 BodyGen Kit
+    - 1mNzb3cHWa2EX__bNQuFB1GJmc2-_DX-V # Settlers of the Commonwealth 3.14
+    - 1hcRqZ_M9T1ATVOXdlWiCUrP0OA4FKNPT # Tales of the Commonwealth 3.02
+    - 1OYPU7JlcgZktNvz-hsdGYfkUF1ZV88m_ # Feral Ghouls HD (Patchy's NV List)
+    - 1NR506TBf_flkbwlhpyvNEEb1EX3MrUYv # Non-Feral Ghouls HD (Same as above, but for non-ferals)
+    - 1oZI09jwLUhquc6SlUSfwH8vrSPzQj2CS # [Christine] Dragon Gladiator
+    - 18Cs9tsMEqyzaUzKCij-1Gv5sd4nHuRyW # [Christine] Denile
+    - 1xAlLweI5U4NoBTB4Iu2FO8dcQx1xZlT0 # [Christine] Ilya Elf Archer
+    - 1PZW36jslpvPGbIFJ8nX3k5ufWyLFwucQ # [Christine] Queen Barbarian
+    - 1MowvFu6j3CI-8mXBT69D7zVn1h3bbje1 # [Nini] Dark Sorceress 3BA
+    - 1RiGDZLmTkelem-8VwNb0OsHqelMe-5Ie # [Nini] Darkness Rises Archer
+    - 1yZrl5Xul0GRsRylNqiCdpxtGZ_szFDen # Fuse00 Armor Melony 3BA
+    - 1J5u9pYhm2nZzlrH-vpHtC4hqEeuNBzbO # Fuse00 Vendalian Armor 3BA
+    - 1ZCUZkk60ElIP16OW85dGXX1__waBwyf4 # [Nini] Ves
+    - 1EV5I4UQpb_Q-6nvpjKlNllX16isZ6euu # [Nini] Dance of the Red Butterfly
+    - 1siyc644OSI0Lz8PlM9lo3Gxf_VxQLlN5 # BDOR Winter Mountain Guardian Spirit SE
+    - 1tpY3bDs-LR6rptf8oPUfraKs1CkxJJB3 # [Dint999] BDOR Hairs SSE 0.17
+    - 1WmGuPCblM-L22O38qs939FRRs9ehnLsU # F4NV Colt Single Action Army
+    - 1PWkbzpFos4YQLGoxjbOi7OmAeikCBgnZ # F4NV Anti-Materiel Rifle
+    - 1JJvrnaxmui22P1X44V2VTkifjmfahtLM # Everyone's Best Friend - UFO4P Patch
+    - 1QEbvwiJ6UPxTnElyjuf--RKVfwtmtChm # WASTELAND CLOTHING HD
+    - 1MSlY3H4TsbJhBQ9NgGjrf4IhDSp12_fo # Capital Wasteland Hideouts - TTW
+    - 17cMBS6WolewrwwjAbFiSng4b0ybIUUpH # Capital Wasteland Hideouts - TTW SawyerBatty Patch
+    - 1r1OCf0TY8t8jIWk5g7TYtJsrl85ABcEi # Mobile Truck Base Sorting Add On - TTW
+
     # Total Skyrim Overhaul files
     - 144op2Nq9_p5dlwpdQ3uIHB-RN0Zx11Hc # Dobart
     - 1OzRnQMQd6v-jCdpBCwLtvU1PgP9UHPJx # Godfall
@@ -168,7 +240,41 @@ GoogleIDs:
     - 13R4F59XHf3oZsESIGMrGRnbwbqlSULYN # Warden
     - 1HhKZwprqrh0w8ybw5NUROgderVA2IANY # Ivish
     - 1nrSgJG_ikUN65rZxuT7YVm5OV2AJEIVy # DarNified UI - TTW
+    - 1cOrfjQL3ZDks6zvJJsNVgqnjMLyVuGtI # True Anniversary Edition TexGen
+    - 1R-OjY-HVUZUm8huKItNprWHpsXBPOHKq # True Anniversary Edition Dyndolod Output
+    - 1r8kngKdDHKb9nIJQpWywhciBn4-Sirgy # Darkborne
+    - 1ZlI3dBNeIrFzM6RMIhuunGaSdiusXHJ8 # Minerva
+    - 1G-r_seDgTy5k-WzxpzzYk3OON9KFMQYd # Trailblazer
+    - 1QrHV_lH3ESUSiN-4bYwrMivMr5YlQK-A # Marnist
+    - 1G5yiU0xbXh_y9XsPDQ6z5Gg6razeb-Nk # Corbicanus
+    - 1u9Fvkc5xgY4vr3oiPZGkC_cX2CuwX2FV # Makalu
+    - 1fYDDqvsfteyF_Qml94TKOUir7dHAZHU1 # Nomadic Huntress
+    - 1jGCsGJoW_s_uetewNZvumxEi0miNABqu # Dragon Viking
+    - 1JwdhC7ZGgZKU5z5En7NdlXL49RHvqS6L # Dragon Guard
+    - 1WmwAiRf4K9cy8R_xOPGEWB4Y6lX_yFBx # Queen Barbarian
+    - 1G4rtrvHa2OvT7pjaKa-rBh9PnJeOjIQD # Dragon Lilly
+    - 1Ignel7oM-I99A508rNTcTHxC0zjb5T4G # Dragon Berserkr
+    - 1XDMcFyCQJMpdDPwZB3g7KmY9RGws_aFR # Grecian Armor
+    - 1znoxaEdK7D0W8AFQMfbre6suNoJEG4Dv # TsunTsun
+    - 1_JOWwk8GPKIRJuedYU5phkm9QAsXry43 # Street Kunoichi
+    - 180ZrZFnjZs9_tuPwFtMiGj3fVTHFHpWe # Nieth
+    - 13bfNMs_mCMrLINusIy8LpTCDqAVuRt8q # Paragon Aurora Glacier Empress
+    - 1Jh2t36XiShgoKJhhSUFaT6O-7jkFNw38 # Bandit Summoner
+    - 1wPncpPVAZXrIg_7fAKX6p4idcvx9kYZB # Mages Guild Outfit
+    - 1t8eN6-Sx4lAxXO8KCUs6S9rJDsCScWG6 # Elven Princess
+    - 1GfC_TT_7uQjEzfQlZ0mCbS3h7v9WQ8F9 # Canghaiyanxia
+    - 1nxSqaC9G2XN83Pb_c-bYMZgt1RUR9WJY # College Warrior
+    - 13RtaqYPhWuMjNiZhgroRgC_OQfGp4dIq # Demon Ranger
+    - 1EbMYbkRsvxu_sbqzYuxKYxMbj7WL6hoE # Blood Raven
+    - 1C5Jv4b-9KT-CmQwtgx4KWdnl3or-p4Ym # All is Gold
+    - 1qY8Xe8LAF63m3UVJM58xVj1TOTd3uR-l # MCO Sprint Attack Stamina Fix by Maxsu
+    - 1vWIbrO7nHgW27HbjXBxMjuM3sJDitAF9 # [Dint999] BDOR Hairs SSE 0.15
+
+
     
+    # For Licentia's Evolving OStim Suite
+
+    - 1_sYhna-VKSKFOG8mNA8dWpByvNba42ZG # Pubic Hair Overlays SE
     
     # NOISE files
     - 15NFGoOR7eOgKr3x3iiM7ltKJ4rqflqDA # NOISE - xLODGEN Output
@@ -185,6 +291,7 @@ GoogleIDs:
     - 1YM0lFTQdDh6P3JvEgWleOMb3adF_pQ_i # Inconsequential NPCs Visual Overhaul
     - 1mfTQy2HIsdz8WWuTLDgiOR-t_IBZyTQC # Paper Maps SE v1.1
     - 1kI_R7K8byNU3iB4jl0QvDbLj9RiU8RIV # Particle Patch for ENB 2020-02-08
+    - 1spCzbhwntaaciWuYd-cDWJNwXh5rThWX # 3.7.0 grass cache
     
     # RoH - GAT Edition
     - 0B2VgBVA9jE6RaFNyZURxa3JXUjQ # The Ultimate Dodge Mod
@@ -245,6 +352,8 @@ GoogleIDs:
     
     # TTW
     - 1hIBZQztu3Vd4X-RRXaaVQ3AdWPJuLfUu # LOD Output
+    - 1LLY-Ooo0kLluO2wgBnuyU31UggK0PJt2 # Darnified MCM
+    - 1hsPLtV92vY8ThCrxbIPnttw-CPEX5PXB # Risewild's Reading is Learning Project
     
     # UVRE
     - 1SaF3NxiuZKy3GnSkuzI-3Ym-d1qgyLXo # Cathedral - 3D Pine Grass v541
@@ -259,6 +368,13 @@ GoogleIDs:
     - 1yz1Z9EUn4yZ7RKz3qrDjnHjjn3gH8FS- # CoCo Assassin
     - 1kZgqVoXLzs5Nhq8UWb162lrmdx7-DaWt # CoCo Ahri Uniforms
     - 1lw878-q82P_kyB_9EqXp3oYTiDdYSiG3 # AN Timeless
+    - 18dNx4YjLMeoWqVXNn4lzlQ_3BP4aP5h3 #DynDOLOD compatible Vivid map custom edit
+    - 1t3UTlZm_qioZNhvyFJSRMAlpYidBIz98 # DynDOLOD output
+    - 1OLwBANDJ7CVmL5oFR7gCn3ERXSkWQ-cv # xLODGen Output
+
+    # Atelier 2 Screenarchery Locations - Alabast
+    - 1sAp3Q7rYLq1otpojLap1t6N6h9nrAJFm # Karlov Manor
+
     
     # Librum
     - 1-emQWfJr3e-JC15sEN_OtHAASKaKMfz3 # Librum DynDOLOD Output
@@ -269,7 +385,7 @@ GoogleIDs:
    
     # Lover's Lab Modding Essentials
 
-    - 12PjpfL95kg60Zoqha3yqvYqK1mrbhBjV # Devious Devices Assets BHUNP
+    - 12PjpfL95kg60Zoqha3yqvYqK1mrbhBjV # Devices Assets BHUNP
     - 1gnQ5GKVRD0khn96PeCoAI8RV4IB4SlKt # Devious Devices Expansion BHUNP
     - 1NVH4Xq1g0BGh9Q2XOfLBWB0l4yAut_xK # Deviously Cursed Loot BHUNP
 
@@ -277,7 +393,7 @@ GoogleIDs:
     - 1PymWUmPzHoLb_LPWwJ6qFw4qaSpbn3E0 # Synthesis output
     
     # Tinvaak
-    - 1XR3Wh0PgrvRliGGRBnSS6-nXjnS2Iezf #Tinvaak 2.0 Alpha 4 Generated Files
+    - 1gjzG1t0AqQD5xwBJinGL_uo3_NIEq531 #Tinvaak 2.3 alpha genned files
     - 13m52cS2gNGhFGSOE44APEZAbDa7miSCd #Sigils of Skyrim - Shields
     - 1W7KQCt44EMOHIZhrRrbosJnIoor4h0MX #Sigils of Skyrim - Banners
     - 1Lj3I8vBJhbw8krL3XY0sPAJbpiHYSzC7 #Forgotten Retexture Project
@@ -287,17 +403,16 @@ GoogleIDs:
     - 1D052rXUkwrJmStZAc6i5rHBphR9CuxAL #Ugly Males of Skyrim
     - 18OnQ2chHl6FN0jcN4RmdgttO27UmCLzL #Illustrious Whiterun Wood
     - 1FHjypP_7NDAJCgCj0b0HrFUWHiHbBdPE #Plague Bearer
-    - 1CnW0VKDPJ6_gdmMAZfTL0wR28F0KvC1u #Q3.8 AllGud Mirror
-    - 1ABb0tUGDV2vXYIBPzslFVvDiC_N5w5lT #Q3.8 Bodyslide Mirror
-    - 1WcS5tDLwb4OIeybeHWrIUKBGtXfv03IM #Q3.8 SheathPatch Mirror
+    - 1CMGDPFL8UwUU2tBS8LzUjitLLjihefMo #SalaHairsSE SMP
     
-    # Tsukirim
+    # Tsukiro
     
     - 13JBVX_lx_NKdFr2UEr7JOGIcQBXaqIGA # Pubic Hair for Females Baka Edition
     - 1MLyn1f44aEBlO0NNJGDLA0OXwDvk7hvD # Smooth Motion Pack
     - 18eoZyTVSzNaGBlFVCwQIE34GHx_lVNkh # Frothy maid outfit
     - 1L75e_NR6rCrCXK16icDmPOGNcRQSfZuR # COCO Pinup Cheongsam BHUNP
     - 1UKL4KcVOVlJpzWVb0axjdGkhMGCN9tvn # Linxuan Blackwater Guild Outfit
+    
 
     # Viva New Vegas
     - 1lznQ6JB8093BUrLsXR5jKK_x-INB7fX2 # Vanilla LOD
@@ -307,7 +422,7 @@ GoogleIDs:
     - 1WHTwh9cCLaKpZOQuAunjajO5KAt9bp79 # Terrain LOD
 
     # Degen Dungeon
-    - 129bykcnuNYauaKNTZR8iidiMdQSJUX2E # All 7 skills at once
+    - 1qdbx_hh0cEi8daUeWiwMxizCUYpbI9eI # All 7 skills at once   
     
     # SkyREX Metal Edition
     - 1jcZJ9GBmOd074QYtzNk5AZDYK3jA3ndz # DynDoLOD Output.
@@ -327,15 +442,144 @@ GoogleIDs:
     
     # Fusion Girl
     - 17risPk85w0kQcdNicacpE8krW8tKF3sM # Fusion Girl 180REV1
+
+    # F4WE - Fallout 4 Workshop Extended
+    - 1ujwJqYHtdOvAENRRi0G_783bKJpTVJdM # F4WE - LODGen Output
     
-    # TW3 MW
-    - 1yp2OrLDAor7c_0eKClSGQIPc1Hy74som # mod0W2BricksAndRoofs4k.zip
-    - 1Vu8JMVb1Hqqm0F1MOyoIumj5_vpH8Fl8 # WO4KTerrainNoExtraFilesFIXED.rar
+    # Masterstroke
+    - 1jICQFhpY0miPmHOSjZLEvJtgoWRCFQDL # HIMBO KSO 1.0.3d Bodyslide
+    - 1DMWc4kzWRm-Cwtn3EAmIiRo7p1bJmx15 # Community Overlays 1 CBBE Male + Female Repack
+    - 15_0njBUjHKidNnJPmLXEygzGVWsA3Zbq # High Poly Head 1.4 SE
+    - 1SlvS2KRY6UscQisro8GEskwCCKg4Wa3G # SL Aroused Redux Baka
+    - 1jHzXv8VC6fF9pGHbKlkitCE8UK-p-vX9 # Community Overlays 1 Repackage
+    - 1RQl8ki73fgLnzBZn6EWjneuW4Dk8TUO_ # Dint999 Facepart Mod
+    - 1K0c3czPfsBdhRHdXUJlIYQdErqIrp7Cd # Barbarian Bodypaints Fixed
+    - 124yGslgLhuqCetB_MPPvSa7XO49nTxhP # Community Overlays 1 Repackage v2
+    - 1vu0O6eTru5kZPe-6pWDjfCXoN2n8uh67 # Community Overlays 1 Repackage Fixed
     
-    # Arkay's Commandment
-    - 1x7Biesz0kcNnFh27kVWx_CUpnWUg3mI8 # Pi-CHO ENB N6.75 for Azurite Weathers.7z
+    # Tahrovin
+    - 1iSsWBkCty2Edq7mOwG_RV3K0s3lSi8wG # Bodyslide Output
+    - 1Ui9npTWvJ0dkZnyRRrcvZcOc5ahsSz10 # DynDOLOD Output
+    - 1ZStG2HZKtBKMRTGggG51bFGJnWtPGHNL # TexGen Output
+    - 1VVUCNgMnUzULH_sX2fsrywV1d16MJQ4E # xLODGen Output
+    - 17Ox4I4P0rJUIHCPltum-iq8JTBx-vA9j # BakaFactory ABC
+    - 1sBiw9U05mFboGH5pcGKaA_aliM9bPzaS # Elegant Beauty Stunning Eyes Remastered v2
+    
+    # Tahrovin SE
+    - 1R3L8Or5HA6HQzEcEVoBFQSJnUV66FPKs # Sunjeong Forest Nymph
+    - 1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ # Dint999 Public Hair Pack 02
+    
+    # Sex-Is-A-Sidequest
+    - 19nnXIWpy0vYR9NsoHQPa-QGFO1jSGzG5 # Sim Spawn Overhaul
+    - 1LkYKrl8OVABwJLvEea3SP7Oj1O4-PjDj # Lighting 1
+    - 1rObd6KfQ8lVfKMTfL_BTWtn6HmVK_CEu # Lighting 2
+    - 1JFaRp3xnL9WaTNhjWK7Vy9X1Pk5vR3cQ # Lighting 3
+    
+    # SkyFurry
+    - 1sKJDRgnbq1Qc2myTJzx0gqE668d4weVF # SAM HPC for SkyFurry
+    - 1Z6L9SFYPYm_lJ5wtM8fcxYZ6NNrOrXxH # SAM RM Morphs for SkyFurry
+    - 1KE4F2SelfQT-admcHq7macPOE0MMyh_E # Male Body for SkyFurry 1.2
+    - 1m1eyNbm8RfnrtYpcPIDgho4VhKLRFVdz # Male Body for SkyFurry 1.3
+    - 1h6MUqjd6yWQgoyWSGwuRpgQjbCMnmyrY # Male Body for SkyFurry 1.3.1
+    - 1qKJBxFE8eoWCr8rJLAww6504vRCWpxNZ # Male Body for SkyFurry 1.3.2B
+    - 1vPe4DxufKEacaQMkMtj9fAnywZ6acPtG # YiffyAge of Skyrim release 13
+    - https://mega.nz/file/MCBzkaaC#wnfdSRKJJG7jyzIM-okiwmPyD2A-0yc7Q_ufWvk5ipQ # BHUNP Ver 3 Devious Devices SE Bodyslides
+    - https://mega.nz/file/EKwSXKpB#33HT6aakfAWjO_EomEJSbBI_xV5ZYuftSNkO_cBRPrA # BHUNP Ver 3 ZAZ Bodyslide SE
+    - 1Cp1NE3NFbR8VxGKzqFW8MJznJx5wXuyI # being female SE skse
+    - 1Rj2TuxBQ3v0rhKQHbaIyVvFVYG6ueIfJ # FWAbilityBeeingFemale
+    - 1rUK8Id2DseAgDSeYlUMwdsRho1hWCWXy # BD BHUNP Collection
+
+    # PROJECT Skyrim
+
+    - 1WHyS9oPqgwqGBAJATeU3zQwmPjZX-aeA # Updated High Poly NPC Overhaul - Beyond Bruma
+    - 1JwdhC7ZGgZKU5z5En7NdlXL49RHvqS6L # [Christine] Dragon Guard
+    - 1znoxaEdK7D0W8AFQMfbre6suNoJEG4Dv # TsunTsun Armor Remastered
+    - 1Hdq2K26GUNCE6z04PxlFX6ixC-yYJwfY # [NINI] Bless MS 0101
+    - 1fM89jb1uvdoiGed83hC291lRwXvKOTLn # [NINI] Bless RB 0007
+    - 1u85h3rTvR2778AjegtovyLKIhkv-pM1b # BDO Hairs [Dint] v0.13
+    - 1OnusxmnvFuVgsSL9m9stDiMPnnoic_lq # Attacko Realistic AI Edit
+    - 1hAtWvFUoHZQIOI9eaq4EwUueJDCQx9Av # MOfu EldenRing Attack Animation Dual Wield MCO SE
+    - 1tj686VIBWryVAkqYqTJLTBuN8kVzuIWU # Olivier Magic Casting - Nexus (Diverse Magic Casting)
+    - 1_DlVhHLClFuUTwMNrwU57n02utT5cBG3 # OStim Sleep
+    - 1lnEcwRgynl1deY8UK4B4ufS79f9XnIfO # OStim NetFX
+    - 1qWFtyIOSTySvcau_jUXiYC0saVpedLAX # Abyssal Blade 2
+    - 1UV8Xm4QcfoSVhToAN7bnEUOS-ndzBUPC # mofu elden ring attack animations axe se mco 
+    - 1N0vv9GZDC4kKcnm0w0Tiksn5k7IohmZJ # olivier martial arts v1 complete mco
+    - 1p9U5oqGlFPkcCMMwKgcDysgyDZIO4w6N # olivier kenjutsu dual wield dagger
+    - 1f6y_L3TYrrhqgitPZqBXMdvNgtZAdQwp # olivier kenjutsu battleaxe mco
+    
+    # iAmMe's WoD
+    - 1VTi8QCFq7GUfoUGUeDkEiwPSJtsRw_88 # FO4 Immersive Cube Maps
+    - 1_BWhGK3Jm8cyPCIp9xREvofWbNZCsNkP # ZeX ZBG (BT3 and FG LooksMenu & BodyGen Integration)
+    - 1ryL-5BmzKCL2R8egljjC2bf_ClNfOI5n # Vault-Tec Armor AIO v1.1
+    - 1iXCe3AyNEGp_OeP0bgsp2U59mwlJ9i9N # Q.C.A Menu (Quick Change Armor)
+    - 1R3UtK7aA3WsYfNMJXFunRNrOCrr4dO4y # BodyTalk 3 December 2022 Release
+    - 1MF-RxZgrO0GFf3-_zUxB-0gAR2H1oFoW # BodyTalk 3 January 2023 R1 Release 
+    - 17risPk85w0kQcdNicacpE8krW8tKF3sM # FusionGirl v0223 Release (Feb 2023)
+    
+    # Wunduniik (SSE Modlist)
+    - 1aA15AVXDubSoizOnLeNm19TsnbvtpRZn # Real Wheat Fields
+    
+    # Horizon Roleplay Edition (F4EE version 2.0)
+    - 1Sv6KyUby-ZcMsPcTqYxFIFalRaTVKFbR # PANPC - Horizon Patch
+    - 1CQ2s0aqPcvjaS-FuUFifb_qGgPC8NUaI # PACE - Horizon Patch
+    
+    # LyssaLovelace
+    - 1J3Ow4zL-Gg0Nss-mwPc4ZzBcZn3kGTsn #Black Desert Online Hair - For Fallout 4 https://www.trophihunter.com/fallout4-mods/black-desert-online-hairs
+    
+    # Keizaal
+    - 1SFsc1H2yWUVOuVxTuqCmvkXHVLWFgq-y # Pure Waters
+    - 1YLlVUvCswkxqGjOcclNFPZBi7fmb3_gD # Music Mix
+    - 1QaRvlCy0o95Rt3KBCpmowIX7R99txk4K # Music Mix Patches
+    - 1UyvReVEztgiM9-uNntBA5rMiGrRPd_LW # Karthspire
+    - 1uudqgCY2FmZCco2JCIXojt0MuJUXgniT # Grass Mix
+    - 1Yaqa0ty-SM-S09LqrSExgXfN_pK9sYdq # Sons of Skyrim
+    - 1ZRRNpk8weDIsPeUpEXXiAuw6bSrCdd6C # Oblivion Dwarven Shield
+    - 1E7XeaMSFaHt9yirSqGI4xSobZB-vUTMp # Civil War Commanders
+    - 15AMUbiOoXiL9rq2UwiSsdyFJZlK4H-Qy # Blue Ogres
+    - 1pLDWnaTbTpIRfLRRAxfNhbdcZQ2DjAb5 # XPMSSE Female Skeleton Fix
+    - 1TpHJaos3j-wfG80TOQWsfqnzrzTh3QT2 # Bolar
+
+    # Parabellum
+    - 1yzuDyv2iPHp2bxPhyZu_Wlpo7Zb13_Sm # BodyTalk 3 May 2023
+
+    # Ro
+    - 1wRza-EA8P_O-XlXIxGIytyju4OI2xS8K # Jelidity's Ryn's Karthspire Tweaks
+    - 1xGaQXaWVBWuOVxXuMmXhUPJA9--Yzsu8 # Jelidity's Resist Frost Gives Warmth
+
+    # Camboi
+    - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
+
+    # Fallout Anomaly
+    - 1APDBlK9UuPkXgptW0U1IHtKgEv4s9ruP # Fallout Anomaly HUDS
+    - 1KdsyV6Sy9rnIyPBKUfwY97I4EnOKNja8 # [KB-47]-ModernVehicles-V1.4.7z
+    - 1687w6nhpTEpKEf2Ea6YqD8XGltvsxRlF # [KB-47]GHOULS 1.0.7z
+    - 1Kic3ImyCIebxcGRZbaKtHJEHh53pKtV_ # [KB-47]-INSTITUTE 1.3.7z
+    - 1ExrOI3yo-OGEk_Iif3tAlxf8n7UpDpjo # [KB-47]-ROBOTS 1.1.7z
+    - 1sWpTDjSYC4xwhEveSuVhykjzHpZ2Qk1Y # [KB-47]Deathclaw Replacer 2.0.7z
+    - 1hLm4nAlg1GID_w868ez3-SN-kj2J0DIe # [KB-47] SYNTHS 1.4.7z
+    - 1VUt6NbWWaLWHtOMbFhmsEXPZU5Iy6MV3 # Sdak1 Car Replacer
+
+    # NEFARAM
+    - 1Ts0sQz3hDxhCeS_LUnXJQFuws_qbw9YQ # Dint Hair Pack 02 SE 1.10
+
+    # Skyrim Legendary Edition WD
+    - 114RS5tS9B7az2i-DI6tJyyCFyQLZcYqO # SexLab Aroused Redux V28b Modified by BakaFactory (for LE)
+
+    # FILFY Modlist
+    - 1V10fJ3qpQwIDmPVf4DriJMeMkc1gQhxM # [dint999] Sorceress Papillo Outfit 1.0.7
+    - 12YLTMHRX7eBwy_47lQm6ZkAIjmUUKX2P # [dint999] Forgotten Princess Armor Set 1.1.7
+    - 1uVGV8yWPpFlKiULf6a1OtwYXd55f1srK # [dint999] BDOr Guardian Kharoxia Clothes 1.0.1
+
+    # Nordic Souls
+    - 1RmTOdP_P3DwnPs60IJhEBQQb-qOuUObt # Kaidan - Extended Edition 14.9
+
+    # Uranium Fever
+    - 1m3LUeY-z_Fm_S9MayG41ZUw-jgvrJkVu # Tammer's NIF-Bashed Armor Mega-Pack v4.2
+    - 1vfDv38LLWaZMxiDqZr7cmMx31XxNSBtW # Tammer's NIF-Bashed Armor Mega-Pack v5.0
     
 AllowedPrefixes:
+    - https://build.wabbajack.org/authored_files/direct_link # Direct Links, mostly for testing
     - https://wabbajack.b-cdn.net/  # Wabbajack CDN
     - https://wabbajackpush.b-cdn.net/ # Wabbajack CDN
     
@@ -357,7 +601,8 @@ AllowedPrefixes:
     - https://3dnpc.files.wordpress.com/
     - https://lotdplus.com/
     - https://cdn.bethsoft.com/ # Bethesda tools
-    - https://downloads.vectorplexus.com/
+    - https://downloads.vectorplexis.com/
+    - https://gitlab.com/ #Used for OpenMW
     # - http://mw.modhistory.com/ Disabled because this site dies every 4 days and takes the build server with it
     - http://www.theassimilationlab.com/
     - http://tesalliance.org/
@@ -369,9 +614,21 @@ AllowedPrefixes:
     - http://www.shrine-of-kynareth.de # An Oblivion Modders selfhosted mods, lets hope it doesn't break like http://mw.modhistory.com/ 
     - https://gist.github.com/ # Github subdomain
     - https://git.fireundubh.com/ # Fireundubh's Github subdomain
-    - https://eddoursul.win/ # Eddoursul mods (Unfound Loot)
+    - https://c6-dev.github.io # c6 (xNVSE Dev)'s Github subdomain
+    - https://audixas.github.io # Audixas (Guide and Mod author) Github subdomain
+    - https://www.skyrim-guild.com/ # Modern Combat Skyrim stuff mostly. Distar/Adri host here
+    - https://www.modding-guild.com/ # skyrim-guild renames to modding-guild
+    - https://modding-guild.com/ # skyrim-guild renames to modding-guild
+    - https://valheim.thunderstore.io/ # Valheim based modding, includes more, isolated mods that aren't hosted on Nexus Mods.
+    - https://geckwiki.com/ # New Vegas Creation Kit
+    - https://gamebanana.com/ # Primary Persona modding site
+    - https://www.distaranimation.com/ # New location for Distar's mods
+    - https://files.moddinglounge.com/ # Rage's lists
+    - https://www.overtake.gg/ # Assetto Corsa mods
 
     # Common files
+    - https://ttw-file-hosting5.sfo2.cdn.digitaloceanspaces.com/TTW%203.3%20Installer.7z # TTW 3.3 installer
+    - https://cdn.discordapp.com/attachments/934574001366380584/942219510163845160/nvse_6_2_6b8.7z # beta xNVSE update (Official Discord Link)
     - https://cdn.discordapp.com/attachments/518048160526893057/832281169717362738/xEdit_4.0.3g.7z # xEdit 4.0.3g (Official Discord Link)
     - https://cdn.discordapp.com/attachments/518048160526893057/863117377146191882/xEdit_4.0.3h.7z # xEdit 4.0.3h (Official Discord Link)
     - https://cdn.discordapp.com/attachments/518048160526893057/863262167415259146/xEdit_4.0.3h_Hotfix_1.7z # xEdit 4.0.3h Hotfix 1 (Official Discord Link)
@@ -382,38 +639,6 @@ AllowedPrefixes:
     - https://mega.nz/#!r0Ei1QwB!wqSFfjiHywamVGdERbq_iKKudShZ5Om_7WDbAlwrdvU # Skyrim_Particle_Patch_for_ENB-SSE.zip
     - https://mega.nz/#!qgcAAaYR!mHmS5Rkylq-XiOUVQOFQOPfXTFYn55lmF0BdLWLaKWk # Skyrim_HighPoly_Fern_Meshes-SSE.zip
     - https://mega.nz/#!UcYkBCjL!8bEa0WqYvkLaer8I6_cw1JviLxmU_-lvlqHUk3myumw # DynDOLOD-Resources-SE.2.72.7z
-    - https://mega.nz/#!AUx0jCAZ!ErV9kZkwAOTJsQV8cO7UGNsK-AP-SbSPVrE-rdfnaHA # xLODGen.51.7z
-    - https://mega.nz/#!IZpyTIjA!LxbZLytZwxpzSeboiYm8InI77mlvrnpGysYz7ajcinM # xLODGen.55.7z
-    - https://mega.nz/#!kJZ1DALZ!N-BZtK-sarhMpIfwXT5IT_n8qx7sPc5pOy9u-5RkEN4 # xLODGen.56.7z
-    - https://mega.nz/#!MdxQEaLJ!l822HUZygktOY5y5MkEGQjRJB0XOhxVVT_uqBlf5Jug # xLODGen.57.7z
-    - https://mega.nz/#!QVZlzShQ!fkUTPUIp2O5cg1s4BlfwFMwI1uG6M3Hg9tCJNbw_hUE # xLODGen.58.7z
-    - https://mega.nz/#!8cBkwQpa!vcqbZX05EhpPWZkUv_jS72WvZu0Bfvud8S8MZdA7MDM # xLODGen.60.7z
-    - https://mega.nz/#!AF5zgAAB!pidCK8y2ZU0HRPsdgi8DtbVeDpAQ5Z0NXvOcqQQsLak # xLODGen.61.7z
-    - https://mega.nz/file/BIZATIxb#q2XDvIiIkEwNnz-8NdRCCVZ3h31Ft7u-Z6PZQ3UWbWM # xLODGen.62.7z
-    - https://mega.nz/file/ZB5FjKoT#Sr5YL0JHiUp1AXyqeRYsG-3mSQj-d-iVWlU4l6m6y-w # xLODGEN.63.7z
-    - https://mega.nz/file/VBJRFKAY#sm7YkovVCWczwnnNn4nmkV7PfHlkzQL67jAAUleZGng # xLODGen.64.7z
-    - https://mega.nz/file/kJAVAK6B#f1K2o6kLKL-swzeFia8CP1852LgJS8DREFG36r2FCDY # xLodgen 66.7z
-    - https://mega.nz/file/4Ux2zAZR#2OFEC6f19MlaZUyDdlbBPkoCtzhot-ZqQLChgcSAeus # xLODGen.67.7z
-    - https://mega.nz/file/hIpi1K4a#THx3hErf0AYNQpZIYlC1NP525yCpKtPMAF1Fs0lEXc4 # xLODGEN.68.7z
-    - https://mega.nz/file/ZMgTAQCB#4is4TCd0j6Oxhv-lY8_KUaXWv6tfqtQtQD6BLmUMus8 # xLODGEN.69.7z
-    - https://mega.nz/file/dV5y1RSY#jocMwtXi0KOUF3hGN_yOHX8cVf3Iz1RFdVFQ-5SSSHY # xLODGEN 70.7z
-    - https://mega.nz/file/BVxUjC6S#mrrkCNBxgVDbv3PyUz1VWUFN14VlbcILssp5fPc2hd0 # xLODGEN 71.7z
-    - https://mega.nz/file/NYISFJCB#NnHFAwR8ohPqbSQ_PtohCti5dj4QT7Dcu6MGTwWP8rU # xLODGEN.73.7z
-    - https://mega.nz/file/5ABX1AZR#yMyM236eRB6UguY96ryZWIZBWOSBBH1CnbY2IyQ7hwA # xLODGEN.74.7z
-    - https://mega.nz/file/0BhWBQpA#JNUgN6JUvYFR6z2_vuAoqXojElpHHurdQbga7XSM1-k # xLODGEN.75.7z
-    - https://mega.nz/#!NYISFJCB!NnHFAwR8ohPqbSQ_PtohCti5dj4QT7Dcu6MGTwWP8rU # xLODGEN.73.7z
-    - https://mega.nz/file/0BhWBQpA#JNUgN6JUvYFR6z2_vuAoqXojElpHHurdQbga7XSM1-k # xLODGEN.75.7z
-    - https://mega.nz/#!oVplUSpZ!RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY # xLODGEN.76.7z
-    - https://mega.nz/file/oVplUSpZ#RuT0KTyW3TCqDs4NcIRy3-RtGjPOtHcGYOJkLmpv1TY # xLODGEN.76.7z alternate link
-    - https://mega.nz/file/tc5giZLT#BjwaiKq3JZ8-dAtvXp08yhY4yb3al2qsqn_e-1xEH6U # xLodGen.77.7z
-    - https://mega.nz/file/cAwSUbhY#R1BF0kYlFBWWyFcBfa4y-cl4HtnDVCVlicoOWXE8KDg # xLodGen.78.7z
-    - https://mega.nz/file/cAwSUbhY#R1BF0kYlFBWWyFcBfa4y-cl4HtnDVCVlicoOWXE8KDg # xLodGen.79.7z
-    - https://mega.nz/file/NYhjxAiJ#WZdgPqhvflUG0NfqnoOLaPg8BYUJd7uz7rwb-k5dDvc # xLodGen.80.7z
-    - https://mega.nz/file/YNxB3AgB#7r-UlNjcB0qtnoiuE0PtFPQlezNESsnUZlVCEa-s6-0 # xLodGen.81.7z
-    - https://mega.nz/file/xdwmmKgA#I_KNynb4Fz0mrQV8bxBNlgw42KUykkk2VhM1RRkn5ts # xLodGen.82.7z
-    - https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg # xLodGen.83.7z
-    - https://mega.nz/file/dEwQnJRS#E-qpq29rVCBw3FxT3gTOjF_Z2zYkzR2CcWhQ5OAZcwg # xLodGen.84.7z
-    - https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc # xLodGen.85.7z
     - https://mega.nz/#!tVISya7T!CzWGBIN0JMyvyCOBOUEU-kt_8cQAbrhPmdkUvPzRi4k # DynDOLOD-Standalone.2.72.7z
     - https://mega.nz/#!cMZ3AKLA!8uQdXz3-PqksUVodxQ5mulvubrUZqOY_cQSr3pktyYQ # DynDOLOD-Standalone.2.73.7z
     - https://mega.nz/#!5d5hwaLK!qfWM78pRe2xQUSmEjRRo5_NjJyh-DfCz_kHnAjDUt_c # DynDOLOD-Standalone.2.76.7z
@@ -442,6 +667,8 @@ AllowedPrefixes:
     - https://mega.nz/file/usAizaTA#vf09_4PAHub9aRVn399Z1vt6o2CHD8_db5Aij-VzI-I # Mod Organizer 2.3.0 Alpha Build 8.8
     - https://mega.nz/file/H0YGyQzR#znVlNTshRUA2WWoYZjwqr5O1IBaYAsiCBu0wEn7KsQI # Mod Organizer 2.3.0 Alpha Build 9
     - https://mega.nz/file/mds1AJzA#wZJMXX8BV481aZQ72wCoLaOamqWziW682YhX-8oSC0g # Mod.Organizer-2.3.0alpha11
+    - https://mega.nz/file/EmxzyLLb#0y6vxJ6iy0QRWNn2wTXV56CMkhyfAF8MunZ_w1RfeKE # Mod.Organizer-2.4.5alpha3
+    - https://www.dropbox.com/s/oqdjgtzj69a2udm/Mod.Organizer-2.5.0-category-alpha6.7z?dl=1 # Mod.Organizer-2.5.0-category-alpha6
     - https://gist.github.com/aers/953a50c61b3028bce7e5376e8590abed/archive/e82cb06b56ef68a6fc2473028f0319fb58ee3018.zip # count_loaded_refs_in_load_order.pas
     - https://www.patreon.com/file?h=35289631&i=5312963 # SC Horses
     - https://www.patreon.com/file?h=35289631&i=5428357 # SC Horses SSE Port
@@ -468,6 +695,7 @@ AllowedPrefixes:
     - https://mega.nz/#!BZhlVCAJ!s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4 #FO4LODGen Resources 
     - https://cdn.bethsoft.com/fallout/nv/geck/GECK_NVE_v1.4.zip # FNV GECK
     - http://geckwiki.com/images/c/ca/GECK_NVE_v1.4.7z # Backup FNV GECK
+    - https://cdn.discordapp.com/attachments/1074569079123365929/1085715700263440465/ImprovedCameraSE-1.0.0.PR51.7z # Improved Camera to prevent recompiles
     - https://mega.nz/file/BZhlVCAJ#s-GqqbnJlZDvCLPiRw1Wm1EWGqMQCuh4CR8Zzn8POM4 # Fallout 4 LODGen Resources 1.1
     - https://blog.kakaocdn.net/dn/sw4vW/btq6qhhMipa/5pfOLEqRjfofAvBLH3R411/Smooth%20DAR%20Combat%20Dodge.7z?attach=1&knm=tfile.7z # Smooth DAR Combat Dodge
     - https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth%20Magic%20Casting%20Animation%203.2.7z?attach=1&knm=tfile.7z # Smooth Magic Casting Animation 3.2.7
@@ -485,12 +713,35 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/57uw1ey2qe37gh9/Nightcrawler_Cola.rar/file
     - https://mega.nz/file/czgT3aRQ#ipEnFbNQ-KnB5cyr2NKuNRQgO4KeIzDEp1bW6rnhNHA
     - https://mega.nz/file/kNRCHRDY#ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc
+    - https://www.patreon.com/file?h=59495813&i=9545329 # Patreon for RaceMenu AE
+    - https://www.patreon.com/file?h=59959475&i=9624564 # Patreon for RaceMenu AE 0.4.19.8
+    - https://mega.nz/file/8Iog2abQ#0rQzamCU_uv68QpnBjvlR8SSepyek7LM6sow4rQFh_c # xLODGen 86
+    - https://mega.nz/folder/6dBjwa4R#u5pw7JsxcJI_IAzayULZbw # Th3Overseer Mod Collection
+    - https://c6-dev.github.io/mod/NMFL-NV_2.0.7z # C6 Github downloads
+    - https://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file # Spice of Life NV 1.5
+    - https://www.moddb.com/downloads/start/209436?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fthe-ncr # The NCR (ModDB)
+    - https://www.patreon.com/file?h=66659308&i=10797349 # Patreon for RaceMenu AE version 0.4.19.9.2
+    - https://mega.nz/file/VOg2xYTa#q-MJTjUEz3_BRbpkDF6AhX0vSlYBouKHJVcRhRPLNJo # OrcTeethReplacement-SE
+    - https://www.skyrim-guild.com/s/Distar-Creatures-Preview1.zip # Skyrim Guild Creature mod version 1
+    - https://www.skyrim-guild.com/s/ADXP-Beta-142.zip # MCO 142 free Skyrim Guild
+    - https://www.patreon.com/file?h=67007517&i=10861552 # _Fuse's free patreon Rogue Armor
+    - https://www.patreon.com/file?h=62190804&i=11074106 # A free patreon hair mod by _Fuse
+    - https://www.patreon.com/file?h=64262256&i=10354948 # A free patreon hair mod by _Fuse
+    - http://www.dev-c.com/files/ShadowBoost_1.9.4.0.zip # Fallout 4 ShadowBoost by Alexander Blade
+    - https://www.patreon.com/file?h=67067747&i=11190129 # ESkyrim MCO Claw animation mod
+    - https://www.skyrim-guild.com/s/ADXP-Beta-143.zip # MCO 143 free from Skyrim Guild
+    - https://www.skyrim-guild.com/s/UnderwaterCombat-Standalone-jnek.rar # Underwater Combat free from Skyrim Guild
+    - https://mega.nz/file/V3JxxIbA#Enjhc9QpzX5XwtFp0n6TbuXM_LqYgKVHy_YWtthtv7M
+    - https://mega.nz/file/9IhgmAiA#K37BG0fYfe15oOqbfhNjDgrzDGjRjFJHmuZs_yRNvIY # xLODGen beta 98
+    - https://mega.nz/file/gZ121TRT#0hB01CqPwZByO_nrVgh2mJE3y71vQDI4a-W2fZKIEec # Kaidan Extended AIO 1.3.7
+    - https://mega.nz/file/JIxhxJ4T#dAE7AfWXZBrmMtXPjO1xgMVexcUcbozVtL-R4v1JS9k # xLODGen beta 101
     
     # Oblivion Files
     - https://mega.nz/#!HlxQGIjK!n6rJOhznkuBwVVey7ApxOW8QHjkMx0P6wHiZlqCisgE # Insanity's Improved Armory Compilation
     - http://download1523.mediafire.com/7w3ri4nuv6lg/r251peo5b4cuw3i/Maxim+Hair+Pack+Newsea.7z # Maxim Hair Pack Newsea
     - http://www.mediafire.com/file/r6nvavynocz6ku7/Alluring+Wine+Bottles+-+Mead+Patch.7z/file # Alluring Wine Bottles - Mead Patch
     - https://mega.nz/file/NlICEDCT#oQmP67VDNESpb-hAVokUavIGIO7SJu7eJfMbS8nD4Wg # Oblivion Reloaded Lite 37
+    - https://www.mediafire.com/download/ctd689d2etnlabw/fire+retexture+1k+1.2.rar # Fire Retexture Update
     
     # Skyrim VR
     - https://mega.nz/#!8040WI6b!BgurOV5-aHqrHQfwyHAxTwy9D_8O0AYP3r1p7qvAnoI # VR Visual Enhancements
@@ -499,6 +750,11 @@ AllowedPrefixes:
     - https://mega.nz/#!FlJDXQTA!6x0HMEmcDpd7vVHeXsKPfjCxMz3zm6CmcBNMvVYuVgA # VR DynLOD Files a2.2.0 Lite
     - https://mega.nz/#!M5BCWABI!GgOE0PCgVFd7xpEMDfuMfh5Mhx7kpR_kca1U1O2t8f0 # Immersive Armors CTD Fix
     - https://mega.nz/file/Bk4iiQCC#ITPiuAeo0Ck88MFHKZ4Fkah6bDV9stC0QjqvS-h9vOc # VR Patch
+    
+    # Fallout VR
+    - https://cdn.discordapp.com/attachments/354663002433388545/876390467351232532/MCM_VR.zip # MCM VR
+    - https://cdn.discordapp.com/attachments/929147656469626950/1055724837814931526/PANPC_2.0.10-stable.7z # PANPC
+    - https://cdn.discordapp.com/attachments/928100623453417492/943923878873423932/Companion_Heal_Thyself_v1.5.7z # Heal Thyself
  
     # Viva New Vegas patches & files
     - http://www.mediafire.com/file/ln1a2l2th1if8es/Spice_of_Life_Vanilla_v1-5_Release_Candidate.7z/file # Spice of Life Vanilla v1-5
@@ -511,9 +767,11 @@ AllowedPrefixes:
     - https://mega.nz/#!Ed4wWYjC!3wI37OKSV4lQoE8hkTmwJIpFl8FzUqWynVVfpUJFggs # DynDOLOD Standalone 3.0
     - https://mega.nz/#!QdZgUZoL!7wfJuR1-uU7Du7SDy_vcuuPkUDfwGjMN9XlwU_0WD2E # DynDOLOD Resources 3.0
     - https://mega.nz/#!kNRCHRDY!ONIMDnlxyyBH-QsSUgatbQJWOgGGrr8F8bxWD_-bSGc # xLODGEN
+    - https://mega.nz/#!IpE3HCwT!8olpG8EnhWa1TyPwyysNR1GxZibta4K6-U6bdGSamw4 # Skyforge Steel Leanwolf Patch
     
-    # The Phoenix Flavour
+    # Phoenix
     - https://mega.nz/file/mxVFCCpK#O9I5udNOMt7rjYsNCVODPRO9T9EAR_SxHQUKIXQk9Xk # mindflux clovers
+    - https://drive.google.com/file/d/1iMD2C9uzczj-7cbezfXK_HwGOuhu-GEF/view?usp=sharing # Remove Ownership script
         
     # Unofficial Lexy LOTD patches & files
     - https://mega.nz/#!QZ91gajb!zsQGvgaouIY7pYgC5bzHv30Grhe3BDxhRXqmkbjVzJk # Lexy's LOTD Replacer Files
@@ -533,8 +791,16 @@ AllowedPrefixes:
     # Enderal - My Way
     - http://download855.mediafire.com/dfd7lp0ghiug/4cgr1yeem36rkb9/Animation+Package_2.0.rar # Animation Package 2.0
     - https://mega.nz/file/cegTSARa#xJTZGpnoZR1DlJMXMIh7FpU8y0JOhWQuPqsIqLEzzwA # TeamTal BDO Complete Pack
-    
-    # Tinvaak
+
+    # Wunduniik Modlist
+    - https://mega.nz/file/Z5hHkITY#Z8aAobWpKCl9lCC5dmOg0tuLHasOIE62mP92cE7wl_Y # Kome's Inventory Tweaks
+    - https://mega.nz/file/J1oxAbKQ#OlfYJRajDyavVUt3sj3E2AwIf2Q4y4PywMTtTt-ZqlY # Skyfall Unique Windmills
+
+    # FILFY Modlist
+    - https://www.mediafire.com/file/4wdvgnua8zel039/[Christine]+Knight+Girl.7z/file # [Christine] Knight Girl
+    - https://www.mediafire.com/file/rwynzbu2mstm683/NewMiller_Strange.7z/file # NewMiller Strange Piercings
+
+    # Aetherius/Animonculory
     - https://mega.nz/file/qVhVFKKL#s1Zl20rqkJ8JWwmXWjm-2PRT9xC0_PwGqVnH9ktisvg # Book Of The Dead Trees
     - https://mega.nz/file/vd9TiYbB#qdfixa-pQXaZRyA-zm7JTe57RqfWwe0zMdSWWbJ2XCo # Brigandine Armor
     - https://www.mediafire.com/file/ulpbccm9m50xtkn/Paragon_Sparrow_Huntress.7z/file # Paragon Sparrow Huntress
@@ -545,6 +811,13 @@ AllowedPrefixes:
     - https://github.com/AntiMicro/antimicro/releases/download/2.23/antimicro-2.23-win32.portable.zip #Antimicro - Gamepad tool
     - https://www.patreon.com/file?h=56397521&i=8920382 # Elder Souls - 1hm replacer v2.9
     - http://www.patreon.com/file?h=56563755&i=8949801 # Elder Souls animations AIO - 0.6
+    - https://www.skyrim-guild.com/s/SkySAv28.zip # SkySA - V2.8
+    - https://az764295.vo.msecnd.net/stable/da76f93349a72022ca4670c1b84860304616aaa2/VSCode-win32-x64-1.70.0.zip # Visual Studio Code
+    - https://www.patreon.com/file?h=65532242&i=10998255 # ESkyrim MCO Animations
+    - https://www.patreon.com/file?h=82920846&i=14179396 # Kingeric's d3dcompiler_43 wrapper
+    - https://disk.yandex.ru/d/Ev2kNgguLEhdHA # DDS Workshop Eyes Mod 2
+    - https://disk.yandex.ru/d/ogrEiFwGFnNcLQ # DDS Workshop Eyes Mod 3
+    - https://disk.yandex.ru/d/x1F2Gc8SWnZHfg # DDS Workshop Facial Hair
 
     # Common SSE LL Mods
     - https://mega.nz/#!jIRgUKDZ!1Px1-XXNSIwDKMeZc4IZe-X6dMXpvlVbNMUrOTiXNNI # SexLabFrameworkSE_v163_BETA8
@@ -605,23 +878,23 @@ AllowedPrefixes:
     
     # TW3 MW
     
-    - https://mega.nz/file/sSpk0SJI#SinMWxeVqR-EHjy2xV32mP5ifF8tArKmi4LtUXXJqkU     # 4K Witcher Cat's Eyes Lore Friendly Less Bright.zip
-    - https://mega.nz/file/wbwRTQBJ#cBZEDU78G548dBRWiI0EYm-CXbHArrBX8AQ9tS2q_Ls     # Aerondight Replacer.zip
-    - https://mega.nz/file/EDQkTQ4D#KNQwmuapRg8WokkNlpQG33emIgP9zkEZtTi37H0Kf-g     # Brutal Blood.zip
-    - https://mega.nz/file/cPgUAYRD#FSAVl1cHIOtJ-nupQx02jbWXyuenns_AJTckPtgjjlM     # Clear Lighting.zip
-    - https://mega.nz/file/oLwhlZRT#K8Jny9L2bdhrzvUQCvb_F9_fHrn-SymOE9k-BC2RrHo     # Disable Pesky Sword And Arrows Trails.zip
-    - https://mega.nz/file/FfI3TADB#40fAgMqZ50MR9f4LDAVXGJy_lx-66qmucG4_udcgGHM     # Enemy HUD.zip
-    - https://mega.nz/file/Mf410bKC#CFanH_o1RgLqqMUCyyeEByoU13R-8_VmJkc36ZUa5ek     # Geralt With Lore.zip
-    - https://mega.nz/file/ZDAgyQST#GpnHdrdWcU0558XMfQugG3ct0yzTtbsY_loil_Tc6XE     # HD Water.7z
-    - https://mega.nz/file/xLAhnIRJ#MRo3kThPddeogsnINfRquxyiz275shLVwzzEVVeZZ2g     # Ice Breath.zip
-    - https://mega.nz/file/4PhX2IIZ#l56tQEdyLeHvIgZMAfHTG7Q1b1oMD6uAxLzJkgZjR-s     # Killing Monsters Armor Fix With HD Chainmail.zip
-    - https://mega.nz/file/geBjFAgS#QKIbwtE06NptGOmti2n1sTAORA7WmIf2CBMmlS8kawg     # Less White Eyebrows.7z
-    - https://mega.nz/file/4WJTkQxK#P0cqzvdIje6EG8ubYbNR-yom_93mv8nhSgMBzSubv8Q     # Thoughtful Roach.zip
-    - https://mega.nz/file/AbAUESSI#tq-UfoHmcoa2f6i0J44L3lBREDZV-M4yawvttkSg5Bw     # Trollonly Subtitles.zip
-    - http://www.mediafire.com/file/9kfrv0fdweg5iyd/HDRP+12+without+Hair, +Armor+and+Monster-changes.rar/file   # HDRP 12 without Hair, Armor and Monster-changes.rar
-    - http://www.mediafire.com/file/3wiydhmlb7xrpug/InstantTooltips_variations.rar/file                         # InstantTooltips_variations.rar
-    - https://www.mediafire.com/file/l3s4t3uv7s6dg5z/ZeBestestBesserwisserEdit.rar/file                         # ZeBestestBesserwisserEdit.rar
-    - http://www.mediafire.com/file/q9h8sysfsg3es01/Raonjena_020.rar/file
+    - https://mega.nz/file/sSpk0SJI#SinMWxeVqR-EHjy2xV32mP5ifF8tArKmi4LtUXXJqkU                             # 4K Witcher Cat's Eyes Lore Friendly Less Bright.zip
+    - https://mega.nz/file/ZSgDHYjL#Iy9IYODuHP4YluQ_NENg_pzadNMnhe0XaheoEiQyVhw                             # 60 FPS GUI - E3 HUD
+    - https://mega.nz/file/wbwRTQBJ#cBZEDU78G548dBRWiI0EYm-CXbHArrBX8AQ9tS2q_Ls                             # Aerondight Replacer.zip
+    - https://www.patreon.com/file?h=63982317&i=10309524                                                    # bsbah Lady of the Lack
+    - https://cdn.discordapp.com/attachments/486202559951011870/633534346489233471/DebugConsoleEnabler.7z   # DebugConsoleEnabler via ASI loader
+    - https://mega.nz/file/oLwhlZRT#K8Jny9L2bdhrzvUQCvb_F9_fHrn-SymOE9k-BC2RrHo                             # Disable Pesky Sword And Arrows Trails.zip
+    - https://mega.nz/file/QGQQ0CgQ#1Wn-M2oE7q-TUTW9Akry_ReBsusm0A_0Ijw9sP6Mbds                             # EE Wolf Medallion HUD
+    - https://mega.nz/file/JfpW0bSJ#LubttJclKTMpgM5WZA6YMTjBsI50PUtY1y0BbY66zbE                             # E3 Improved Combat Animations
+    - https://cdn.discordapp.com/attachments/486202559951011870/894253594231054456/Elysium.7z               # Elysium Grass
+    - https://mega.nz/file/FfI3TADB#40fAgMqZ50MR9f4LDAVXGJy_lx-66qmucG4_udcgGHM                             # Enemy HUD.zip
+    - https://cdn.discordapp.com/attachments/966003567720800266/985164195374972998/FerociousReshade1.02.7z  # Ferocious Reshade
+    - https://mega.nz/file/Mf410bKC#CFanH_o1RgLqqMUCyyeEByoU13R-8_VmJkc36ZUa5ek                             # Geralt With Lore.zip
+    - https://cdn.discordapp.com/attachments/955348078725058560/1028622922430042173/GSFX_Shaders_Final.rar  # GrooteS Shaders
+    - https://mega.nz/file/ZDAgyQST#GpnHdrdWcU0558XMfQugG3ct0yzTtbsY_loil_Tc6XE                             # HD Water.7z
+    - https://mega.nz/file/4PhX2IIZ#l56tQEdyLeHvIgZMAfHTG7Q1b1oMD6uAxLzJkgZjR-s                             # Killing Monsters Armor Fix With HD Chainmail.zip
+    - https://mega.nz/file/geBjFAgS#QKIbwtE06NptGOmti2n1sTAORA7WmIf2CBMmlS8kawg                             # Less White Eyebrows.7z
+    - https://www.mediafire.com/file/qev6ufpcxn8wxp3/True+Fires-Package.rar/file                            # True Fires Package
     
     # Wojo
     - http://www.lostspires.com/misc/thelostspiresv14.zip # Lost Spires
@@ -692,6 +965,7 @@ AllowedPrefixes:
     
     # Living Skyrim 3.0.0
     - https://archive.org/download/Wyrmstooth1.17BSSE/Wyrmstooth%201.17B%20SSE.zip # Wyrmstooth 1.17B
+    - https://www.skyrim-guild.com/s/ADXP_Beta_13.zip # ADXP/MCO Beta 1.3
 
     # Living Skyrim Sexy Edition LODs (FogottenGlory & Torhild)
     - https://mega.nz/file/G9JiVA6C#f2_Kni53DFv977Jr0QFWde7U69PMOe0_4aovsHoJgYg # TexGen Output
@@ -701,6 +975,12 @@ AllowedPrefixes:
     # Living Skyrim Baka Edition LODs (ForgottenGlory & Hajo)
     - https://mega.nz/file/s80mDRJR#XBFiId-dOJbo1EYFuYS79XnSckXHNm9kSlIpRI5ixKA # DynDOLOD Output
     - https://mega.nz/file/dhsQ0biK#jhTTjA3tAuZrg12xDgjKQSI0qZkg7h5eCQFy0G0YTdg # SSELODGen Output    
+
+    # FO4 Survivor Slave
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q                 # Nuka Ride 6.4.7
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/folder/ylhRWDAB # Nuka Ride - Textures for the Girls 1.1
+    - https://mega.nz/folder/epZxGIRR#-V3hKLRvXlXWKfwF8zr-Sw                 # Commonwealth Slavers 2.4.6
+    - https://mega.nz/folder/epZxGIRR#-V3hKLRvXlXWKfwF8zr-Sw/folder/39gHBaIQ # Commonwealth Slavers - Voices 1.02
     
     # Wyrmstooth LE
     - https://archive.org/download/wyrmstooth1.18/Wyrmstooth%201.18.zip # Wyrmstooth LE
@@ -722,17 +1002,18 @@ AllowedPrefixes:
     - https://mega.nz/file/IWYFiKiD#ci8OcvnY_7fwSBtD_Ehm4_mAcShfFnwNgAzXLk0IL_g # SL Parasites Bodyslides v7
     - https://www.patreon.com/file?h=48362669&i=9138658 # FHU Baka Edition 1.6
     
-    # Sovn's Shit
+    # Zélie's Whitelist
     - https://www.patreon.com/file?h=31611983&i=4728886 # Smashin Face Reload
     - https://www.patreon.com/file?h=35289631&i=5312963 # SC Horses (Meshes/Textures)
     - https://www.patreon.com/file?h=35289631&i=5428357 # SC Horses (Port to SE)
-    - https://www.dropbox.com/s/3l8lkhenyhhbd9i/Pacific%20Blue%20ENB%20BETA10%20WIP.zip?dl=0# # Pacific Blue ENB WIP
+    - https://www.moddrop.com/stardew-valley/mods/580762-a-toned-down-stardew-valley-updated# # A Toned Down Stardew Valley - Updated
+    - https://www.mediafire.com/file/zc5p0x3lrhc5kz2/%5BChristine%5D+Dragon+Slaughter.7z/file # Dragon Slaughter Armor
     
-    # Elysium
+    # Elysium Remastered
     - https://mega.nz/file/xUc0zRLY#NYwbmmHOZhpSF2hpV7hMRYejgZsL_MAIVv_DfjK9JRM # Elwaps SpeedTree
-    - https://mega.nz/file/AZ8FHSiT#1xdG9l3J4FQ5ZbC1-LHlP06iKuVBRiBOIxlYgG6HaZY # Elysium - Core Files
+    - https://mega.nz/file/8AUEwABS#2QWJ3ZoH_udwzn9Nj5EzuVSjU_8aK8-nMPGMS7bwQTY # Elysium Remastered - Core Files
+    - https://mega.nz/file/ERFnRTYb#7ukiteBb1GdLCAWO1EMKvN9Bt2Y2vHP3mtucmp6MrIM # Rudy ENB CW Zangdar's Edit ReShade preset
     - https://mega.nz/file/qgcAAaYR#mHmS5Rkylq-XiOUVQOFQOPfXTFYn55lmF0BdLWLaKWk # Skyrim High Poly Fern Meshes
-    - https://mega.nz/file/NB12mZZB#wZ0ZgG536kDE0LcFDvttFVfSK0sr92p00oOxsSHhnvA # Rudy ENB CW Zangdar's Edit ReShade preset
 
     # Skyrimified
     - https://www.patreon.com/file?h=47007938&i=7297552 # Sigils of Skyrim 2K Banners
@@ -819,7 +1100,8 @@ AllowedPrefixes:
     - https://www.mediafire.com/download/fwksyu0v6auw32u/BrokenSteel.7z
     - https://www.mediafire.com/download/ql238cvbl494re3/PointLookout.7z
     - https://mega.nz/file/bkoWUILB#e4J7qQAD_b4wwZh0m2R8NrcYGGZI4xecPpm4pXt7tgc
-    - https://mega.nz/folder/JVF0QDAQ#y-OCEQ0mvYf15zyFABiwvw/folder/lNcwzBDB 
+    - https://mega.nz/folder/JVF0QDAQ#y-OCEQ0mvYf15zyFABiwvw/folder/lNcwzBDB
+    - https://mega.nz/file/QuAwmCIQ#_kcBnRJpjPsLaRGM7jDjpxkJBxzeSLG5V1cfUA18zQ8
   
     # TSO
     - https://www.mediafire.com/file/4ke7032jzdo9s2c/%255BChristine%255D_Dragon_Veil.7z
@@ -879,7 +1161,6 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/3ucd71wh3aap6i0/BDO_Ranger_La_Medellin_-_CBBE_SE_%2528SMP_-_Physics%2529.7z/
     - https://www.mediafire.com/file/odlvy4uyrd3us2k/MBO_0051_-_CBBE_SE_%2528Physics%2529.7z/
     - https://www.mediafire.com/file/lu0ey0bpk1xm83v/Valkyrie_Olympia_%255BSE%255D_-_CBBE_-_BHUNP.7z/
-    - https://www.mediafire.com/file/2y24qz2ox4x67qo/%255BChristine%255D_Venom_Blade_Maiden_CBBE_SE_fomod.7z/
     - https://www.mediafire.com/file/dnnzh844zwdj95r/C5Kev%2527s_Herme_Mora_Priestess_CBBE_SE_fomod.7z/
     - https://www.mediafire.com/file/bg95cbykz9gzw1n/Bless_MD_0102.7z/
     - https://www.mediafire.com/file/7tfmoks76cz56t4/Bless_HV_0102.7z/
@@ -920,6 +1201,80 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/a829yjv6ikonqpq/[Christine]+Dragon+Fighter+v2.7z/file
     - https://www.mediafire.com/file/c1m8x0f6t94x3lh/file
     - http://www.mediafire.com/file/pqqmkv4x1shg8eb/Nightcrawler_Shuri_EF.rar/file
+    - https://www.mediafire.com/file/t2jjzedv5ptphmn/[Christine]+Dragon+Berserkr+v4.7z/file
+    - https://www.mediafire.com/file/ftrq4eywwn2bmjb/Dragon+Lilly+-Definitive+Edition-.7z/file
+    - https://www.mediafire.com/file/gnl288wqxr0iqzi/SunJeong+Preset+Collection.7z/file
+    - https://www.mediafire.com/file/qe2wlbhp7zpo7yq/[Christine]+Queen+Barbarian.7z/file
+    - https://www.mediafire.com/file/34xmdqdjf623naq/[Christine]+Adahy.7z/file
+    - https://www.mediafire.com/file/m6vcqryvl2yarb2/04_%255BChristine%255D_Bandit_Summoner.7z/file
+    - https://www.mediafire.com/file/rsdw21ogf433uve/Paragon+Aurora+Glacier+Empress.7z/file
+    - https://www.mediafire.com/file/xxc1nqrinwoashv/[Christine]+Dragon+Guard.7z/file
+    - https://www.mediafire.com/file/h2ekbsae68fs7x6/[Christine]+Dragon+Viking.7z/file
+    - https://www.mediafire.com/file/1adglyhf23wc0xe/[Christine]+Nomadic+Huntress.7z/file
+    - https://www.mediafire.com/file/xuw4j9ks9hxk6yg/[Christine]+Farshadow+Ranger+2.0.7z/file
+    - https://www.mediafire.com/file/zpmysia7jxsuy3l/TsunTsun+Armor+Remastered+2.0.7z/file
+    - https://www.mediafire.com/file/ta679dq9dpe9pcz/%255BMelodic%255D_Mistress_Lilith_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/file
+    - https://www.mediafire.com/file/qx5iwbokbmx0hrp/[Christine]+Street+Kunoichi.7z/file
+    - https://www.mediafire.com/file/3lf9k6ml57ua5o0/%255BChristine%255D_Airisu_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/file
+    - https://www.mediafire.com/file/6jza6xtncauf12c/Nieth+Outfit+v2.7z/file
+    - https://www.mediafire.com/file/jxpjuyyqzvu5pys/Blood_Raven_SE_v2_0.7z/file
+    - https://www.mediafire.com/file/tyw1j7awzft79x3/Archmage_Light_Armor_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529.7z/file
+    - https://www.mediafire.com/file/asw9flhctxa8rq2/[Christine]+Fire+Princess.7z/file
+    - https://www.mediafire.com/file/7ui6ladw7pk830t/[Tullius]+Blue+Plate+Armor.7z/file
+    - https://www.mediafire.com/file/yvvn6kls0xs4xyt/[Christine]+Queens+Blade.7z/file
+    - https://www.mediafire.com/file/71fexu01i7dhr5x/Gatti+Jewel.7z/file
+    - https://www.mediafire.com/file/ytkcsluaoo5kipa/Amazon_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/yyd7tsf7g9jbi3b/%255BNINI%255D_Egyptian_Pharaoh_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/acokfx7evwovzeb/Umbra_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/lu0ey0bpk1xm83v/Valkyrie_Olympia_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/o6dz4dws9u2oeyv/%255BRektas%255D_Sanguine_%255BSE%255D_-_3BA.7z/file
+    - https://www.mediafire.com/file/vltyeln24cwg7eu/%255BRektas%255D_Taranis_%255BSE%255D_-_3BA.7z/file
+    - https://www.mediafire.com/file/6k8yn4ahyvz5lqx/%255BRektas%255D_Dark_Nun_%255BSE%255D_-_3BA.7z/file
+    - https://file173.gofile.io/download/ed121535-3308-4116-9aab-54b544a55ae2/%5BCOCO%5D%20Demon%20Shade%20%5BSE%5D%20-%203BA.7z
+    - https://www.mediafire.com/file/0c8zize0c7gipa6/%255BChristine%255D_Grecian_Armor_2_0.7z/file
+    - https://www.mediafire.com/file/2r6c1q3nvz97228/Demonic_Seduction_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://file127.gofile.io/download/cf3c6d6d-0a8c-4fff-9f3e-6b2a57972a18/%5BCOCO%5D%20Witchiness%20-%203BA.7z
+    - https://www.mediafire.com/file/63vdrp55polrxb4/Starlight+Queen+[SE]+-+CBBE+-+BHUNP.7z/file
+    - https://www.mediafire.com/file/6do9dbtcoqk6jfp/Cindersoul+[SE]+-+CBBE+-+BHUNP.7z/file
+    - https://www.mediafire.com/file/bu5cxbye4bvvvtz/Lightning_Archer_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/5kr55kyn4lyx2ye/Budoka_Goddess_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/e7xpd2poxwokqvp/%255BRektas%255D_Temptress_%255BSE%255D_-_3BA.7z/file
+    - https://www.mediafire.com/file/ghcib0sjyvc2vqx/H2135's+Fantasy+Series8+[SE]+-+3BA.7z/file
+    - https://www.mediafire.com/file/hdo9s6qgfn8jt8j/Luna+[SE]+-+3BA.7z/file
+    - https://www.mediafire.com/file/h94phvc2rtydqx5/Nocturnal_Disciple_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/8i6n3gimlmnt1lc/Spider_Queen_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/zev9e7a04quok1t/%255BNINI%255D_Ancient_Oasis_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/wjbr6fy30ofgzmg/Shadow_Witch_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/zb8ivv20tr3b23c/Iron+Warrior+[SE]+-+CBBE.7z/file
+    - https://www.mediafire.com/file/ce07lrwtuddi2oh/1001_Nights_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/hl8rmbx64o1d8cm/Nord+Queen+[SE]+-+CBBE.7z/file
+    - https://www.mediafire.com/file/e65mat3hb6f6s5l/Temple_Guardian_%255BSE%255D_-_CBBE_%2528P%2529.7z/file
+    - https://www.mediafire.com/file/kab4eay9jb90sq5/%255BNINI%255D_Stellar_Cancer_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/hpnpcyxtgigp4l7/Fantasy_Wraps_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/yk3jmxehvp3xjq5/Helena_Succubus_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/zxpc7hiwrhr45xx/%255BNINI%255D_Camellia_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/5792jgwlgbe20a9/Advent_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/o91i71si9rpm5eg/Spirit_Blade_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/43xcd5uhvfujrl4/%255BNINI%255D_Venus_Valkyrie_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/kqr9c72pqnf39mb/%255BNINI%255D_Deified_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/7im8hr3nneo1jv6/Sins_of_Daedra_%255BSE%255D_-_CBBE_%2528P%2529.7z/file
+    - https://www.mediafire.com/file/wa7jerp7e8dbi9q/Mystique_2_%255BSE%255D_-_CBBE_%2528P%2529.7z/file
+    - https://www.mediafire.com/file/o4qyo75n6aoabxu/%255BNINI%255D_Venus_Cage_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/vmt9frao80yqoxs/Silent+Assassin+[SE]+-+CBBE+-+BHUNP.7z/file
+    - https://www.mediafire.com/file/re7godkupogdqdb/BDO_Ahon_Kirus_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/s506cdjwoxq0grl/Hunter_of_Darkness_%255BSE%255D_-_CBBE_-_BHUNP.7z/file
+    - https://www.mediafire.com/file/497egeshx0jjtjr/%255BChristine%255D_Nocturnal%2527s_Embrace_CBBE_%2528Physics_-_CBBE_SMP_-_3BA%2529_fomod.7z/file
+    - https://www.mediafire.com/file/ufj1w7d5r43rxje/Amazon_Outfits_CBBE_SE_fomod.7z/file
+    - https://www.mediafire.com/file/ogobg4v6b7lsfmy/BDOR_Eclipse_by_Team_TAL_fomod.7z/file
+    - https://www.mediafire.com/file/pki7oc0ybjovifw/%255BChristine%255D_Forsworn_Retribution.7z/file
+    - https://www.mediafire.com/file/0lwhy93ir95pjcn/[Christine]+Quetzali.7z/file
+    - https://www.mediafire.com/file/3pu5h6llihbl1vh/%255BNINI%255D_Destroyer_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/14kh9nmlj7ic70m/[COCO]+Accessories+[SE]+-+CBBE+-+BHUNP.7z/file
+    - https://www.mediafire.com/file/5792jgwlgbe20a9/Advent_%255BSE%255D_-_CBBE.7z/file
+    - https://www.mediafire.com/file/zb8ivv20tr3b23c/Iron+Warrior+[SE]+-+CBBE.7z/file
+    - https://www.mediafire.com/file/sd9mwzemd0d944p/Canghaiyanxia+Outfit.7z/file
+    - https://www.mediafire.com/file/8kj1x4elarvh5u3/Mages+Guild+Outfit.7z/file
+    - https://www.mediafire.com/file/1e0by7m92ahh4q6/[NINI]+Demon+Ranger.7z/file
 
     # Servitium Test
     
@@ -943,8 +1298,9 @@ AllowedPrefixes:
     - https://mega.nz/file/yYtilJZb#xbGG3oimaM08mVEeXyElbgISmp8mAjOGT8KbwjFXTDI                # Devious Devices 5.1
     - https://yadi.sk/d/vZ8ANVOlDTw5Gg                                                         # Defeat Fixed by Themis (SKSE)
     
-   # Librum
-   
+   # Scenic Route Games
+
+    - https://dl.dropboxusercontent.com/scl/fi/h5ecdykbw2jeiyx86biqw/Dodge-MCO-DXP-v0.9.8.zip?rlkey=e1w3ftgqw09ftm8ohmr7ek2m2&dl=1 # DMCO 0.9.6
     - https://www.dropbox.com/sh/gfz6ga6ctuduj6j/AACKL3ULA1F59ObnnwUF7YcAa/Wrye%20Bash%20308.202101111451%20-%20Standalone%20Executable.7z?dl=1 # Wrye Bash beta. Necessary for Librum
     - https://mega.nz/#!MI41iADD!Qa47iXpHBZLxAICe7My9q-dSAX1Rh9uKQlXFk9vMIOc                   # SSE-Terrain-Tamriel for xLODGen
     - https://mega.nz/#!sFoFRawS!_DSfPVm6Of8h0H_s2OR0Q5jDymcvlcyFCHYDAGQM4Ks                   # SSE-Terrain-Tamriel-Extend
@@ -964,26 +1320,21 @@ AllowedPrefixes:
     - http://ksp.necrobones.com/files/SpaceY-Lifters/SpaceY-Lifters-1.17.1.zip  # SpaceY Heavy Lifters 1.17.1
 
     # Arkay's Commandment
-    
-    - https://mega.nz/file/f8VAmZyb#B1u18Wh959h0XK-PbrGmWUtg5uy_g7m6OU0rHFp3VEM                 # AllGUD Meshes
-    - https://mega.nz/file/ysl13azR#D1QvN3ea_tl8ANtZ1YKdy2fwhgiVXd44RkwLiKh3KR8                 # AllGUD Patch
-    - https://mega.nz/file/Op01lSia#DOl9wWNqeb5oBil6ZQGIb-SxQcHzk7MdxFTtmaRIM04                 # DynDOLOD Output
-    - https://mega.nz/file/z1l1xQ4B#N0T_AtQii4xXCHASVyLtaKejkaiw8FHb_dp1nKNUOW8                 # FaceGen
-    - https://mega.nz/file/fwlDkIJJ#-SBkW16XaM5P0ovlBQ-GCBCLO4FKbWUEDEe8G_usc1M                 # Grass Cache Output
-    - https://mega.nz/file/Tsth0arD#AEprfVynaDRcCgnyFgB36_lGOjbc8hNEm2U69Aob99k                 # Nemesis Output
-    - https://mega.nz/file/rp1TyQwQ#9_aHHQ9PJbdRPg6YYqcSQsMqv6klV5A6W8H6RJsLVgI                 # Requiem for the Indifferent
-    - https://mega.nz/file/rwlxRYoD#bqrepLG68R4vuZDgVSMc0_bu0gsoo9T-qEyfhJKTS-s                 # TexGen Output
-    - https://mega.nz/file/Gx9zQIzA#CUwm_6M6wYKqQSYt-llmi_jKyPKuPqeey_TFbVn7G6U                 # Terrain LOD
+    - https://web.archive.org/web/20220406163601/https://codeload.github.com/crosire/reshade-shaders/zip/refs/heads/master
       
-    # Tsukirim
+    # Tsukiro
     
     - https://www.patreon.com/file?h=43719803&i=6717731                                                 # Babo Creature Animations
     - https://www.patreon.com/file?h=43719803&i=6899813                                                 # Babo Human Animations
+    - https://www.patreon.com/file?h=21984697&i=2719683                                                 # Immersive Wenches 1.61
     - https://www.mediafire.com/file/f9ekncasa8ddhus/Paragon+Sparrow+Rogue.7z/file                      # Paragon Sparrow Rogue
     - https://www.mediafire.com/file/8prv99y1b09wady/HG+Feet+and+Toes+BHUNP+SE.7z/file                  # HG Feet and Toes
     - https://www.mediafire.com/file/0li0x872uuwowvl/Dark_Disciple_%255BSE%255D_-_CBBE_-_BHUNP.7z/file  # Dark Disciple BHUNP SE
     - https://www.mediafire.com/file/sr6hvjms1dfzotx/Dark_Sorceress_%255BSE%255D_-_BHUNP_%2528w_optional_SMP%2529.7z/file # Dark Sorceress BHUNP
     - https://www.mediafire.com/file/vglmfgdbaubm2ti/TAWOBA+REMASTERED+6.1+CBBE+SE.7z/file              # tawoba remastered 6.1
+    - https://www.mediafire.com/file/xflbhd6y9hyhzjm/Lovely_Latex_%255BSE%255D_-_BHUNP.7z/file          # Lovely Latex
+    - https://www.mediafire.com/file/024uztrtwv0sr2c/Lovely_Latex_-_4K_textures.7z/file                 # Lovely Latex 4k textures
+    - https://www.mediafire.com/file/k4cjv5te45uystp/[Cloud]+ClubWear+-+BHUNP.zip/file                  # Cloudbird Clubwear
     - https://mega.nz/file/7qx30S6b#oNGHcXw1rTj5w39jD7h9PmYWxtNafkcFSbOM1nLSXkg                         # Baka SOS female pubic hair addons expansion
     - https://mega.nz/file/RTZA2b4B#WcFLVQw8g0175FRTsskJASEVETWDkMMd4Rsi-JQ21X4                         # Black leather BHUNP
     - https://mega.nz/file/RGpgES6a#4THZdwCbJHlVHZchOHFbtea5J7QcDFvjHZpiHCVywXw                         # BDOR Aquila BHUNP
@@ -996,6 +1347,13 @@ AllowedPrefixes:
     - https://blog.kakaocdn.net/dn/cyDuii/btq74ntfh9i/FwXmgAkFKizXGmtyVpscZK/Smooth%20Magic%20Casting%20Animation%203.2.7z?attach=1&knm=tfile.7z # Smooth Magic Casting Animation
     - https://blog.kakaocdn.net/dn/H1jDr/btq4oxONgle/6ENV1nGqob6zw5XHbevwqk/Disable%20Turn%20Animation.7z?attach=1&knm=tfile.7z # Disable turn animation
     - https://www.patreon.com/file?h=22802542&i=8801690                                                 # Baka ABC v2.28
+    - https://www.skyrim-guild.com/s/Vanguard-2_2.rar                                                   # Vanguard
+    - https://www.skyrim-guild.com/s/Impactful-Blocking-14.rar                                          # Impactful Blocking
+    - https://www.skyrim-guild.com/s/White-Fang-Dagger-v1.zip                                           # White Fang Dagger
+    - https://www.skyrim-guild.com/s/ValkyrieSwordShieldv013.zip                                        # Valkyrie Sword Redux           
+    - https://www.skyrim-guild.com/s/Hellblade-Timed-Block-v21.zip                                      # Hellblade 2
+    - https://www.patreon.com/file?h=76381173&i=12635110                                                # GS_SLAL SE 25 12
+    - https://www.patreon.com/file?h=76380665&i=12635075                                                # GS_SLAL Creatures 25 12
     
     # RGE
     
@@ -1009,18 +1367,39 @@ AllowedPrefixes:
     
     - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4451      # Retexture of Vvardenfell and Solstheim in original style
     
+    # Sforzinda official drive ids
+    - 1yj9cxN0MAFQVuOpDNg2NJl0BAZHZm7CZ # Sforzinda Imitations
+    
     # Tales from Nirn: Skyrim
-    - https://href.li/?https://1drv.ms/u/s!AtQUPO-wzfPgqkGpxZD9q494JRSE?e=1szbz6 # Sforzinda Variations
-    - https://href.li/?https://1drv.ms/u/s!AtQUPO-wzfPgqj3vIQD82kWg2fG1?e=hQ5X4K # Sforzinda Imitations
-    - https://href.li/?https://1drv.ms/u/s!AtQUPO-wzfPgqk9dASMpRUp7B8GP?e=qCSXGh # Sforzinda Imitations USSEP Patch
-    - https://href.li/?https://1drv.ms/u/s!AtQUPO-wzfPgqTpLZzlCuHPTtnTf?e=DIDsEf # Sforzinda Fashions of the Fourth Era
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqkGpxZD9q494JRSE?e=1szbz6 # Sforzinda Variations
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqT5Sp-Z0VxF2iDJ0?e=LdxMml # Sforzinda Variations Fashions of the Fourth Era Patch
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqj3vIQD82kWg2fG1?e=hQ5X4K # Sforzinda Imitations
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqk9dASMpRUp7B8GP?e=qCSXGh # Sforzinda Imitations USSEP Patch
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqTpLZzlCuHPTtnTf?e=DIDsEf # Sforzinda Fashions of the Fourth Era
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqnqyVcWUWSudiXvU?e=ZfxnPd # Sforzinda Tundra Cottage
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqnk94j43BVEka50W?e=V40rvR # Sforzinda Solitude Garrison
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqkfLiWauWf8JRVcz?e=pkw3Qa # Sforzinda Anise's Cabin Archives
+    - https://1drv.ms/u/s!AtQUPO-wzfPgqlAiJKVFXy5oLwF_?e=jpY8bu # Sforzinda Anise's Cabin Loose Files
+    - https://www.patreon.com/file?h=65784179&i=10628149 # Patreon file for Adept - Magic of Ash
+    - https://www.patreon.com/file?h=65777188&i=10625697 # Patreon file for Reach Magic
+    - https://www.patreon.com/file?h=65777188&i=10625698 # Patreon file for Reach Magic - Unique Uniques Patch
+    - https://www.patreon.com/file?h=65969282&i=10668144 # Patreon file for Better Staff Enchanting
+    - https://www.patreon.com/file?h=65969282&i=10668147 # Patreon file for Better Staff Enchanting AE Patch
+    - https://www.patreon.com/file?h=65969282&i=10668148 # Patreon file for Better Staff Enchanting Artifacts of Skyrim Patch
     
     # Tales from the Northern Lands
     
     - https://mega.nz/file/YKZAGDqZ#f2U6xmdd6mNFvN1XFQOYSxQpIbztDWWGYNfOf9jEpxk # Smooth's SKYRIM Extra Drawing Animation
     - https://blog.kakaocdn.net/dn/H1jDr/btq4oxONgle/6ENV1nGqob6zw5XHbevwqk/Disable%20Turn%20Animation.7z?knm=tfile.7z # Smooth's Disable Turn Animation Mod
     - https://blog.kakaocdn.net/dn/ZdJoc/btq5HL48VNQ/isew6QacZETKWhNWju1cVK/Smooth%20Magic%20Knight%20Animation%20beta%202.0.7z?knm=tfile.7z # Smooth Magic Knight Animation Mod
-
+    - https://mega.nz/file/5PxWBQga#jGc-JE1u8_QiZPnWNLIXvXKRNWgp1oTW3sgqTHY5eV8 # Smooth's Jump Stagger Animaton
+    - https://blog.kakaocdn.net/dn/3aLd6/btq6kFEgeSe/HBscSqFzBmTTlzuUTwWgP1/Smooth%20HeavyArmor%20Count.7z?knm=tfile.7z # Smooth's HeavyArmor Count
+    - https://blog.kakaocdn.net/dn/cc2DCv/btq75DwB45E/Ngh6JToG1d7rL8IOwblKLk/Smooth%20Combat%20Animation%20by%20Race.7z?knm=tfile.7z # Smooth's Combat Animations by Race
+    - https://mega.nz/file/4TJVGKjb#fLIBqEXkiV0g5SPuPtyrxqTi-HUai-S80sxOqj9r19w # Smooth's Combat Animations by Skill Level
+    - https://blog.kakaocdn.net/dn/MYP4U/btq6mGbLz1v/6qckCQApkxhQAKzq4NUFMK/Combo%20Animation%20Framework%20Fix.7z?knm=tfile.7z # Smooth's Combo Animation Framework Fix
+    - https://blog.kakaocdn.net/dn/sw4vW/btq6qhhMipa/5pfOLEqRjfofAvBLH3R411/tfile.7z # Smooth's Combat Dodge
+    - https://mega.nz/file/YGZHgaKY#nooCozaPDHlY2XAdrCbod4-frgSQGbVsBkSX-zgAqrc # Smooth's Combat Dodge 2
+    
     # Narsil VR
     - https://mvlad.design/storage/skyrimvr/LODs/Narsil 1.5.2.1 - xLODGen.7z # 1.5.2.1 LODs
     
@@ -1054,6 +1433,18 @@ AllowedPrefixes:
     - https://mega.nz/file/nSwzGKxS#oKnbRfFbN116p1xVSg23h2c3rIVUwpS9bHZUdRettMQ # DX Celes Mercy Armor CBBE SE HDT-SMP
     - https://www.mediafire.com/file/acokfx7evwovzeb/Umbra_%255BSE%255D_-_CBBE.7z # Umbra SE CBBE
     - https://www.mediafire.com/file/i3hj55twynzwm58/Umbra_%255BSE%255D_-_4K_textures.7z # Umbra SE 4K Textures
+    - https://www.patreon.com/file?h=66701571&i=10859730																	#Fashion Poses
+    - https://www.mediafire.com/file/d29mvsta04l1wio/Nekos_Poser_Pack_1.1.7z/file											#Neko's Poser Pack
+    - http://www.enbseries.enbdev.com/forum/download/file.php?id=1661&sid=712a3f3a0200c048109c12c1e724c57f				#FreeFlyCam
+    - https://anonfiles.com/R4x5d3h6y6/_COCO_Scarlet_Rose_SE_-_CBBE_7z													#[COCO] Scarlet Rose [SE]
+    - https://www.mediafire.com/file/77486amn2cocfxg/Lovely_Latex_%255BSE%255D_-_CBBE.7z/file								#Lovely Latex [SE]
+    - https://www.mediafire.com/file/024uztrtwv0sr2c/Lovely_Latex_-_4K_textures.7z/file									#Lovely Latex - 4k textures
+    - https://www.mediafire.com/file/bya1g1iga0wrkjq/%255BRektas%255D_Wrap_Around_Dress_%255BSE%255D_-_CBBE.7z/file		#[Rektas] Wrap Around Dress [SE]
+    - https://www.mediafire.com/file/egbw5wcvsm2kgfn/Wrap_Around_Dress_%255BSE%255D_-_4K_textures.7z/file					#[Rektas] Wrap Around Dress - 4k textures
+    - https://www.mediafire.com/file/74v4exp7crkf087/%255BMelodic%255D_Spiked_Tape_%255BSE%255D_-_CBBE.7z/file			#[Melodic] Spiked Tape
+    - https://www.mediafire.com/file/3jyewnystnyk0dt/Homebody+[SE]+-+CBBE.7z/file											#Homebody [SE]
+    - https://www.mediafire.com/file/kqbxuujt9hrb1pr/%255BNINI%255D_Highleg_Dressy_%255BSE%255D_-_CBBE.7z/file			#[NINI] Highleg Dressy [SE]
+    - https://www.mediafire.com/file/iuv8m856tqs0a78/%255BNINI%255D_Highleg_Dressy_%255BSE%255D_-_4K_textures.7z/file		#[NINI] Highleg Dressy - 4k textures
     
     # No, Not Vegas
     - https://c6-dev.github.io/mod/NMFL-NV.zip # No Muzzle Flash Lights
@@ -1093,13 +1484,566 @@ AllowedPrefixes:
     - https://www.mediafire.com/file/s0sj5d97exnlyft/Nightcrawler_Hope.rar/file
     - https://www.dropbox.com/s/1inuwa5345bryl0/%5BDAO%5D%20Vanilla%20Textures%20Replacer.7z
     - https://www.dropbox.com/s/0ga0swr3o5x95wr/DAO_Softer%20Hair%20%26%20Beard.7z
+    - https://ln4.sync.com/dl/4834e2030/eay934pu-bvhzmi6f-iub53fi8-4p6cxtan/view/default/1982540082010
 
     # Terraria
     - https://mirror.sgkoi.dev/ #tmodloader
 
     # Servitium SexLab Quest Cut
 
-    - https://mega.nz/file/oK5BlI5K#tG874DPDljglHSb_1443-VU2hz529M436hFexhZwdSI # SexLab Dibella Sisterhood
+    - https://mega.nz/file/AfomjC6D#MqBZy3WNIGiFJBbCajxV6QRNjdq2HPfl0tmQj9QWzSA # SexLab Dibella Sisterhood SE 2021-11-30
+    - https://mega.nz/file/oK5BlI5K#tG874DPDljglHSb_1443-VU2hz529M436hFexhZwdSI # SexLab Dibella Sisterhood SE 2021-10-31
+    - https://mega.nz/file/gDQhSSDL#TWqwBrCb73YyGjLJ4TpgnJ_P9c65vpL_As2e8m4MhYI # SexLab Dibella Sisterhood Sisters SE 2021-07-31
     - https://mega.nz/file/xHYB1CgA#8iMtOUD3C6o0PyLJ1bkObvVM7wbKIOpcdxGZzZzKZ3s # SexLab Dibella Sisterhood BodySlides 3BA
-    - https://mega.nz/file/9O4m2LgY#y-d7SOR-faQpKRxLoDYFv0yfq6_fZfB1neC-iM8PVik # Devious Devices 5.2 3BA BodySlides Beta
+    - https://mega.nz/file/pDAXwQyT#5pKYl9YSywhnl37rkPnpwRdXrHw-w99bp5c-8rqBWqs # Devious Devices 5.2 Beta 3
+    - https://mega.nz/file/0OhRiA7a#35PWP9dAMw46LtJj7ITJNDjTTu3VdFIa5kizrMr0Jwo # Devious Devices 5.2 Beta 3 (fixed 2)
+    - https://mega.nz/file/ZPZzFKLS#ZTA3Ey615wlH3DsapyccLR0JefLg0Q4lb-ZcNS8wOEI # Devious Devices 5.2 3BA BodySlides Beta 0.3
+    - https://mega.nz/file/dHZCjTSL#MZp9JlWZaxnmhdq7dLMJIUeVZceFwmqC8asXZNWs83U # Devious Devices 5.2 3BA BodySlides Beta 0.5
     - https://mega.nz/file/bQoxnKZa#hb2QAHpKafYvw5NPY_eqDVi2AVAZ7-89NQkS6mR8Q6Y # Amorous Adventures 3.4 SE
+    
+    #LAAS Stuffs
+    - https://mega.nz/file/XgN3wYaT#s663nF_11O5b8AeTRua67FKjA75n7-XKvigG1iCSbTg # xLODGen - Generated Output
+    - https://mega.nz/file/XgFGhBra#YwqgP7ZI6Vabli9UmENAMfK0V4PAtlZwK1eyttCLoIM # TexGen Output
+    - https://mega.nz/file/G5Ek1DaB#gUD_EtJdO0ewQDD86MJJ4_HNoDw4reTpsSD0pwljVC4 # Dyndolod Output
+    
+    # Libertas Alternate Profile
+    - https://www.patreon.com/file?h=57578129&i=9228320 # OProstitution by Sairion
+
+    # The Bustling Valley
+    # Diverse Stardew Valley's main distribution location is Moddrop. The author makes an alternate redistribution list available
+    # at https://github.com/minervamaga/Diverse-Stardew-Valley/wiki/Downloads - These links may change at any time.
+    # redistribution of these files are prohibited, so they can't be mirrored elsewhere.
+    - https://www.dropbox.com/s/opxcyzshu1uwtl1/DSV-CP-2-7-0.zip                         # Diverse Stardew Valley - Main
+
+    # Masterstroke by ForgottenGlory
+    - https://mega.nz/folder/xwxwzaDI#J3oxuELfc50dftUKQiIcUg/file/csZHUKrY # HG Hairdos
+    - https://www.patreon.com/file?h=62224010&i=10521758 # Fill Her Up Baka Edition 1.71
+    - https://mega.nz/file/NX43RSxT#lQZx7C9ftiXPlVzzVn_HXYmt9P3WfXlq5hDUn2NNgp4 # Devious Devices 5.2 Beta 6
+    - https://mega.nz/file/dX5yEITQ#0eGo9naU3UyRCGZJd5Z2ew_O-vJ2J4VQPjGl-SuOAMQ # SL Parasites Bodyslides
+    - https://mega.nz/file/IaR3AC6C#4FMc4sbZSb483sQovvOH0bG_Mii4B1jsM1KDHKTbu34 # SL Parasites SE
+    - https://mega.nz/file/8DAXUDhT#DkVoui0pKWOH7eJUJIw0Qp3iCPODEMFPS8e4RP32Q3Y # BakaFactory ABC SE LE 2.71
+    - https://mega.nz/file/MOY1ASZI#DF3R7K90HfgPSlzsdvubp8sU90if5aANK-cmqZQ5yt8 # Bears of the North MNC ABC
+    - https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/sHg0HRTb # BakaFactory ABC LE SE
+    - https://www.patreon.com/file?h=69839285&i=12819165 # Baka Motion Defeat Pack
+    - https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU # Devious Devices 5.2
+    - https://mega.nz/file/MCQ1USBL#XlGNU7oFvz86rqPit8fuQ9FiyALTvCvGiizzpvImR20 # Devious Devices 5.2 Bodyslide Patch
+    - https://mega.nz/file/7IhyFKrQ#IfUw7ex6vg6h0to4x5fQ7IoEJpUqUmW130p7aazDNmg # ZaZ Animation Pack 8 2023
+    - https://www.mediafire.com/file/kui619aljunjssg/%255BCloud%255D_Layered_Gowns_-_3BA.zip/file # Cloud Layered Gowns
+    - https://www.patreon.com/file?h=70012838&i=12425533 # FreeFlyCam 13.2.5
+    - https://skse.silverlock.org/beta/skse64_2_02_03.7z # SKSE64 Beta 2.02.03
+    - https://www.mediafire.com/file/jdjeenarlr8kwk1/GR_Inari_EarsTails_SMP_SE_v2.3%25281k-2k-4k%2529.7z/file # GR Inari Tails SMP
+    - https://www.patreon.com/file?h=96896557&i=17389866 # Baku Reincarnation Rasha
+
+    # Licentia Various
+
+    - https://www.patreon.com/file?h=52597345&i=9135202 # ORomance Stat Editor
+    - https://www.patreon.com/file?h=58880671&i=9390040 # OSound
+    - https://www.patreon.com/file?h=56220800&i=8891701 # OPubes
+    - https://www.patreon.com/file?h=53664710&i=8892036 # OCrime
+    - https://cdn.discordapp.com/attachments/899858453869256704/899858960444698664/OMasturbation.7z # OMasturbation
+    - https://mega.nz/file/j64AnQLQ#SsGVP7pBSv-P3FGO7TyryPHUTmZtT0fybF8fAJfVi8w # SexLab Solutions Voice Files
+    - https://mega.nz/file/VL5FDBoS#99jsLgDaCjUTk7wER48I2votSmKGiqdvt3jsp_uzMp0 # Artifacts Revised - Textures
+    - https://www.patreon.com/file?h=65790091&i=10628173 # Artifacts Revised
+    - https://www.patreon.com/file?h=65790091&i=10628177 # Nchuak Patch for Artifacts
+    - https://www.patreon.com/file?h=65790091&i=10628175 # LOTD Patch for Revised
+    - https://www.patreon.com/file?h=65969282&i=10668148 # AoS Staff Enchanting
+    - https://www.patreon.com/file?h=65969282&i=10668147 # AE Staff Enchanting
+    - https://www.patreon.com/file?h=65969282&i=10668144 # Staff Enchanting
+    - https://www.patreon.com/file?h=67059625&i=10872127 # Universal Storage
+    - https://www.patreon.com/file?h=101553518&i=18343976 # Yamete Kudasai 2.2.1.0
+    - https://www.patreon.com/file?h=65790091&i=10628176 # Patch - LOTD & Ten Bloods for Artifacts
+    - https://github.com/acepleiades/OSA-for-OStim/releases/download/1.1/OSA.for.OStim.1.1.7z # OSA for Ostim 1.1
+    - https://mega.nz/#!WEgGDaCa!wAho2Rphy47Lcd55DEmV50GgN07CMnTjhQ_r9s6dq-I # ZaZ Animation Pack CBBE V8.0 SE REV 3
+
+    # Fallout 3 Retextures from modgames.net
+
+    - http://download2391.mediafire.com/2lxvv74yt1eg/d1c1vp8g1jbgb8y/Operation+Anchorage.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_operation_anchorage_retexture/33-1-0-16671
+    - https://cdn.discordapp.com/attachments/1053054518172069918/1109366076569047060/PPlus_1.8.2.5-MergedPatch.zip # Sexlab PPLUS Positions + Init + SLSO Patch Merge
+    - http://download2390.mediafire.com/8pt5ps75yzmg/boi3u7tgqan5htt/ThePitt.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_the_pitt_retexture/33-1-0-16642
+    - http://download2391.mediafire.com/qgkjh16jdfmg/fwksyu0v6auw32u/BrokenSteel.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_broken_steel_retexture/33-1-0-16752
+    - http://download2389.mediafire.com/3nh4x6oqaoyg/ql238cvbl494re3/PointLookout.7z # https://modgames.net/load/fallout3/modeli_i_tekstury/dlc_point_lookout_retexture/33-1-0-16648
+    - https://cdn.discordapp.com/attachments/771590385054515210/1197998349127798905/PANPC_2.0.12-stable.7z?ex=65bd4de8&is=65aad8e8&hm=f84fc716ba27d79ee4b6258acc04ff843c584900addd28eb10ea086d7112f703&
+  
+    # Whispering Chills (SKK Mods)
+    
+    - https://skkmods.com/mod/skk-random-encounter-manager/ # SKK Random Encounter Manager (manual download)
+    - https://skkmods.com/?smd_process_download=1&download_id=2303 # SKK Random Encounter Manager (direct download)
+    - https://skkmods.com/?smd_process_download=1&download_id=1105 # SKK 4-76 Open World (direct download)
+    - https://skkmods.com/mod/fallout-476-open-world/ # SKK 4-76 Open World (manual download)
+   
+    # The Northern Experience
+    
+    - https://www.patreon.com/file?h=35573588&i=5360658 # GCO Alpha3 Van Gogh Eyes
+    - https://disk.yandex.com/d/wSEedscZJ176Eg # Eyes Mod from ddsworkshop
+
+    # ??? Something from Patchier
+    - http://www.mediafire.com/file/q9h8sysfsg3es01/Raonjena_020.rar/file
+    
+    # NEFARAM
+
+    - https://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file	# Vanilla Chokers & Earrings - modpage : https://www.rektasmarket.com/post/vanilla-chokers-earrings
+    - https://mega.nz/file/QTJR3aKZ#Wt05raOwN_G_aI8mAthQ4w3DmkJaNbdXxNKCpWbLuqM	# SexLab Dibella Sisterhood Sisters SE 2022-01-31 - modpage : https://www.loverslab.com/topic/120107-skyrimlldeepbluefrog-mods-conversion-to-sse/page/93/#comment-3462553
+    - https://mega.nz/file/1PAVmQgT#mULBwqQGTNg2wRlRJw7atUSFFOhhnTXBMqyu5_RDQA4	# SexLab Dibella Sisterhood SE 2022-01-31
+    - https://www.patreon.com/file?h=70098148&i=11490050 # from https://www.patreon.com/posts/babodialogue-4-70098148
+    - https://www.patreon.com/file?h=64711741&i=11701253 # from https://www.patreon.com/posts/slap-redux-2-50v-64711741
+    - https://www.patreon.com/file?h=69839285&i=11651987 # from https://www.patreon.com/posts/baka-motion-data-69839285
+    - https://www.patreon.com/file?h=69839285&i=12725008 # from https://www.patreon.com/posts/baka-motion-data-69839285
+    - https://file113.gofile.io/download/9f21c97a-4a69-4c75-948d-91a4b6bc3e62/%5BCOCO%5D%20Pinup%20Cheongsam%20%5BSE%5D%20-%203BA.7z # from https://www.rektasmarket.com/post/coco-pinup-cheongsam
+    - https://file147.gofile.io/download/d14910d5-c515-41eb-ae0f-5594edc099f3/%5BCOCO%5D%20Mysterious%20Mage%20%5BSE%5D%20-%203BA.7z # from https://www.rektasmarket.com/post/coco-mysterious-mage
+    - https://mega.nz/file/3A90hQZS#wqqyGkKrYGPGFfPiluHfSmyTL5RqHJGT0-MtinqXTxU # Devious Devices 5.2
+
+    # Fahdon
+    - https://www.patreon.com/file?h=65018177&i=10497594 # zzjay's texture - horse
+    - https://www.patreon.com/file?h=64683742&i=10436348 # zzjay's lore friendly hairs
+    
+    # Sims 4: Sex-Is-A-Sidequest
+    - https://basementalcc.com/adult_mods/basemental-drugs/ # Basemental Drugs
+    - https://www.patreon.com/file?h=56206295&i=8889994 # Cult Mod
+    - https://basementalcc.com/mods/universal-venue-list/ # Basemental Venue List
+    - https://basementalcc.com/adult_mods/basemental-gangs/ # Basemental Gangs
+    - https://www.patreon.com/file?h=27751117&i=10994453 # More CAS Columns
+    - https://chii.modthesims.info/getfile.php?file=1908696 # Old School CAS
+    - https://chii.modthesims.info/getfile.php?file=1694171 # Personality Please
+    - https://chii.modthesims.info/getfile.php?file=1729994 # Personality Please - Todd
+    - https://chii.modthesims.info/getfile.php?file=1745164 # Personality Please - Cats and Dogs
+    - https://chii.modthesims.info/getfile.php?file=1845663 # Hacker Career
+    - https://download2388.mediafire.com/9hsrc6kfq3ag/opkxqfhdj01yo9b/NotEgain_CatTail_and_CatEars_All.rar # Cat ears and tail
+    - https://cdn.simfileshare.net/download/661757/?dl # Vamp Fangs
+    - https://roburky.itch.io/sims4-meaningful-stories # Meaningful Stories
+    - https://sacrificialmods.com/assets/sac---life-s-drama--mod--v-2.0.5.zip # Lifes Drama
+    - https://sacrificialmods.com/assets/sac---road-to-fame--mod--v-0.5-b2.zip # Road to fame
+    - https://www.nexusmods.com/thesims4/mods/604?tab=files&file_id=1097 # Better games
+    - https://mega.nz/folder/FDpmyYqb#NGCpKyIUvEgyDA4n274VcA/file/waYiUZgI # Simulation Lag fix
+    - https://www.patreon.com/file?h=67816628&i=11005311 # All scenarios
+    - https://www.patreon.com/file?h=67868500&i=11020021 # better build buy
+    - https://www.mediafire.com/file/4htk5u1splnps6g/McCmdCenter_AllModules_2022_3_2.zip/file # McCmdCenter
+    - https://chii.modthesims.info/getfile.php?file=1967334 # Simulation Unclogger
+    - https://scumbumbomods.com/s/XmlInjector_v4_categories_duplicates_check.zip #Xml Injector
+    - http://www.simfileshare.net/download/2251515/ # Packchecker
+    - https://cdn.simfileshare.net/download/1145576/?dl # Eyes
+    - https://mega.nz/folder/3J1EhKDA#U8dwAIgbgmY4iXkxrKDM5Q/file/fI9SlIxY # Todd Skin
+    - https://cdn.simfileshare.net/download/128136/?dl # Fem skin
+    - https://cdn.simfileshare.net/download/128137/?dl # Man skin
+    - https://filedn.eu/lR7BpdmQl5KRLRTrBftolFB/sims4/mods/gameplay/LittleMsSam_RetailOverhaul.zip # Retail Overhaul
+    - https://tech-hippie.com/black/k-mods/k-hippie-k505-terrain-mod.7z # Terrain mod
+    - https://chii.modthesims.info/getfile.php?file=1919416 # Terrain mod 2
+    - https://simrealist.itch.io/organic # Organic Hair
+    - https://kuttoe.itch.io/new-hobby-traits # Hobby Traits
+    - https://modthesims.info/d/648717/lifetime-aspirations-v-04.html # Lifetime Aspirations
+    
+    # Living Skyrim 4.0.0
+    - https://www.skyrim-guild.com/s/Distar-Projectiles-v1.zip # Projectiles
+    - https://www.skyrim-guild.com/s/ADXP-Beta-142.zip #ADXP b1.4.2
+    - https://mega.nz/file/500kgB7T#vgj0I6B5rS2ViX-dkdK75_oM56NMqZVv_2f9LNQcRPw # OCPA Custom for ADXP/MCO
+    - https://www.skyrim-guild.com/s/Attack-MCODXP-beta-1501.zip # ADXP b1.5.0.1
+    - https://modding-guild.com/archive/Attack_MCO-DXP_v1.6.0.6.zip #ADXP 1.6.0.6
+    
+    # Masterstroke
+    - https://mega.nz/file/oDxVjTDT#nDkSIwWLZxYFLMlUBKWAEaVCWpEb4U8yg_7dRwNAlK4 # Devious Devices 5.2 Beta 7
+    
+    # aljo's stuff
+    - https://www.patreon.com/file?h=68233071&i=11449877 # Eskyrim MCO Animations FOMOD (updated link)
+    - https://mega.nz/folder/jQdSTTiS#cvXiRP6SSHNm5-RERVrhQw # Eskyrim 3-Hit Spear Combo
+    - https://mega.nz/file/UOEA0CyL#RP6q-q4zRtc2X0k45FIXfBLh5yS7IrsPAIG7FEZ5Hbc # One Click Power Attack v1.2
+    - https://www.patreon.com/file?h=69418463&i=11393448 # Cosmofujia's Elden Ring Twinblades
+    - https://www.skyrim-guild.com/s/Elder-Souls-The-Collection-v09-SE-AMR.7z # MikeNike Elder Souls Collection v0.9
+    - https://www.patreon.com/file?h=68233071&i=11449874 # Eskyrim Sprinting Animations
+    - https://www.patreon.com/file?h=68668550&i=11200681 # Cosmofujia's ER Royal Greatsword
+    - https://www.patreon.com/file?h=69498503&i=11344694 # Cosmofujia's ER Heavy Rapier
+    - https://www.patreon.com/file?h=68559197&i=11129178 # Cosmofujia's ER Halberds
+    - https://www.patreon.com/file?h=72630858&i=12246897 # Cosmofujia's Hand of Malenia
+    - https://drive.google.com/file/d/19nDoNyeK0KBt8HcoxkOa8YHbgnecPdgP # ER Black Knife/Godslayers - listed here because directURL on this link doesn't like to work
+    - https://www.patreon.com/file?h=72737515&i=11928348 # Cosmofujia's ER Greatsword And Zweihander
+    - https://www.patreon.com/file?h=68558668&i=11129077 # Cosmofujia's Rivers of Blood and Moonveil
+    - https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw # Children of the Pariah 
+    - https://mega.nz/folder/UhkGnIyD#73lRU6JhKCQXDgP6at9Xiw/file/gs8AWBJC # COTP Direct Link in hopes of improving user experience
+    - https://mega.nz/file/pNcFUIIT#tSvpP8ZPQeEqYmztne_gymwAJG-OKIQ-C1IzXINE-oQ # BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z
+    - https://mega.nz/file/0A1DiaDL#kld_Q-jx-e_CsC1jn8wb0SHA7GMBCZJMq_adNbRk3Sg # BWB-Kaidan-2-Lux-Patch.7z
+    - https://mega.nz/file/9cVGTSaA#dFy6SFzZXxwDO39NW0HHZDOU_P2G02l4HIMTHWwGRT0 # Kaidan-3DNPC-Patch.7z
+    - https://mega.nz/file/WZt0BDCL#JNUTn_5P2sEPuHm3znSdrrqN28tPnxvmVzeFOw67FAU # HIGH POLY HEAD - EXPRESSIVE FACIAL ANIMATION - MALE EDITION - EYEBROW FIX
+
+    # Vagabond (Ylik's stuff)
+    - https://www.patreon.com/file?h=84565566&i=14552293 # animated interactions skse
+    - https://www.patreon.com/file?h=68914571&i=11564092 # eskyrim dual axe
+    - https://www.patreon.com/file?h=73960863&i=12153333 # Cosmofujia's ER commander's standard
+    - https://www.patreon.com/file?h=68558518&i=11200671 # Cosmofujia's ER Miquellan Knight's Sword
+    - https://www.patreon.com/file?h=68764133&i=11164539 # Cosmofujia's ER Nagakiba
+    - https://www.patreon.com/file?h=80323534&i=13464512 # Cosmofujia's Azure Dragon Glaive
+    - https://www.patreon.com/file?h=76242640&i=12606554 # nioh dai-katana mco
+    - https://www.patreon.com/file?h=89043767&i=15719947 # King HDT-SMP hairstyle by fuse
+    - https://www.patreon.com/file?h=78472619&i=13158943 # Aemond Targaryen hair by fuse
+    - https://www.patreon.com/file?h=78472619&i=13158944 # Aemond Targaryen Armor set by fuse
+    - https://www.patreon.com/file?h=79874952&i=13365775 # Highlander Armor CBBE by fuse
+    - https://www.patreon.com/file?h=79874952&i=13365782 # Highlander Armor male by fuse
+    - https://www.patreon.com/file?h=82636472&i=14041738 # Leon hair by fuse
+    - https://www.patreon.com/file?h=82636472&i=14041740 # Leon armor by fuse
+    - https://www.patreon.com/file?h=82636472&i=14060016 # Leon armor no breast physics patch by fuse
+    - https://www.patreon.com/file?h=73969210&i=12155351 # Netflix Geralt Hair by fuse
+    - https://www.patreon.com/file?h=73969210&i=12155354 # Netflix Geralt Armor by fuse
+    - https://www.patreon.com/file?h=73969210&i=12309715 # Nerflix Geralt Armor no pauldron patch by fuse
+    - https://www.patreon.com/file?h=72580026&i=12781393 # Phantom Armor CBBE by fuse
+    - https://www.patreon.com/file?h=72580026&i=11878009 # Phantom Armor Male by fuse
+    - https://www.patreon.com/file?h=85266060&i=14743517 # Red Warrior Armor CBBE by fuse
+    - https://www.patreon.com/file?h=85266060&i=14743519 # Red Warrior Armor Male by fuse
+    - https://www.patreon.com/file?h=66415343&i=10745616 # Vendalian Armor CBBE by fuse
+    - https://www.patreon.com/file?h=66415343&i=10745621 # Vendalian Armor Male by fuse
+    - https://www.patreon.com/file?h=86137607&i=14980974 # Edge UI 0.45 (required for 0.5)
+    - https://www.patreon.com/file?h=89750615&i=15903352 # Edge UI 0.5
+    - https://www.patreon.com/file?h=70893549&i=11569622 # Animated Dwarven Arsenal v0.4
+    - https://www.patreon.com/file?h=98401985&i=17721156 # Edge UI 0.55
+    - https://www.patreon.com/file?h=85575896&i=14852792 # ADXP I MCO WoLong QuarterStaff
+    - https://www.patreon.com/file?h=80427933&i=13489201 # ADXP I MCO Nioh Spear All Stances
+    - https://dl.dropboxusercontent.com/scl/fi/dhakgaesolxwoyliinn01/Creatures-MCO-DXP-Public-release-v0.2.2.0.zip?rlkey=o5vpeeiinp16mgrja410a6izk&dl=0 # Creatures MCO|DXP : Public release
+    - https://www.patreon.com/file?h=103421081&i=18735736 # Smooth Power Shot
+    
+    # Tahrovin
+    - https://mega.nz/file/o6o1wIhC#dX4vfLGvsYjzUmGxH7ECyyB0KuN3ELB0KFXybH8-Yyk # ED Horns SSE
+    - https://www.mediafire.com/file/hl8rmbx64o1d8cm/Nord+Queen+[SE]+-+CBBE.7z/file # Nord Queen Armor
+    - https://www.mediafire.com/file/loz8ltagu4782tk/Nord_Queen_%255BSE%255D_-_4K_textures.7z/file # Nord Queen Armor 4k Textures
+    - https://www.mediafire.com/file/bnqmaf6r5odxnd1/%255BNINI%255D_Operator_%255BSE%255D_-_CBBE.7z # Ninirim's Operator Armor
+    - https://www.mediafire.com/file/bks3dfn1kt62fay/[NINI]+Damaged+Feather.7z/file # [NINI] Damaged Feather
+    - https://mega.nz/file/pgoBxSCC#fFby_-XwQnXs3eEjygDnYAvpOaZTAVcv5mswq8pm5nQ # Troll Bone Armor
+    - https://www.mediafire.com/file/ttxnmx35glfnl23/[NINI]+Adler.7z/file # [NINI] Adler
+    - https://www.patreon.com/file?h=101903222&i=18497342 # KonsumE for Skyrim VR
+    
+    # Tahrovin SE
+    - https://mega.nz/file/MgRFhQpJ#JZ9OTzTCd7yHSDKaANdAv6ywp4oSqzgdZXkZfOmSBmI # [NINI] Damaged Feather
+    - https://mega.nz/file/98ZDnazJ#rDPMBV_7FIlyM917UVrMqGaUK0Kel6ruGGLGrBJRwDA # [NINI] Deified
+    - https://mega.nz/file/E8pATQrD#-qIVnJEKoDrYFqLho36VEG8iyD-ybAIGQaoegrb2rwc # [NINI] Asker Assassin
+    - https://www.mediafire.com/file/4vv388x5hw3tf6y/Purple_Esmeralda_%25255BSE%25255D_-_CBBE_-_BHUNP.7z # Rektas Purple Esmerelda
+    - https://gofile.io/d/Vt5ukS # [COCO] Witchiness
+    - https://gofile.io/d/qtM6j7 # [COCO] Mysterious Mage
+    - https://www.mediafire.com/file/6do9dbtcoqk6jfp/Cindersoul+[SE]+-+CBBE+-+BHUNP.7z # Rektas Cindersoul
+    - https://www.mediafire.com/file/43xcd5uhvfujrl4/%25255BNINI%25255D_Venus_Valkyrie_%25255BSE%25255D_-_CBBE.7z # [NINI] Venus Valkyrie
+    - https://www.mediafire.com/file/0li0x872uuwowvl/Dark_Disciple_%255BSE%255D_-_CBBE_-_BHUNP.7z/file # Rektas Dark Disciple
+    - https://www.mediafire.com/file/3pu5h6llihbl1vh/%255BNINI%255D_Destroyer_%255BSE%255D_-_CBBE.7z/file # [NINI] Destroyer
+    - https://www.mediafire.com/file/o5tnh5j5a3z56xj/1001_Nights_-_4K_textures.7z/file # 1001 Nights - 4k Textures
+    - https://www.patreon.com/file?h=88365776&i=17075492 # Acheron - for AE v1.6.640
+    - https://www.mediafire.com/file/0w9slls4syy9kul/H2135s_Pirate_Series2_%255BSE%255D_-_3BA.7z/file # H2135's Pirate Series 5
+    - https://www.mediafire.com/file/79r5g9isq3zjyvu/H2135%2527s_Fantasy_Series_7_%255BSE%255D_-_3BA.7z/file # H2135's Fantasy Series 7
+    - https://subscribestar.adult/posts/1142672 # BakaFactory ABC 
+    - https://www.mediafire.com/file/xmqz4qarsn37cxa/Demonic+Creatures+V1.8+SE_AE_any+version.7z/file # Demonic Creatures v1.8
+    
+
+
+    # PROJECT SKYRIM
+
+    - https://mega.nz/file/500kgB7T#vgj0I6B5rS2ViX-dkdK75_oM56NMqZVv_2f9LNQcRPw # oneclickmodified v
+    - https://mega.nz/file/c4BBECpZ#T6G3QJc9kg-cEtsniiKPrSF7ITiE1eypK5f8olHRzhE # ESL High Poly Pretty Face and Darker Brows Stand Alone
+    - https://mega.nz/file/PVkmzJSK#pw-syZ2YSlsR2N8GbgCTmcjBpRLnDueIGCrmXszWUZk # ALT1 Face Hair
+    - https://migal3d.com/downloads/Naughty_Voices_1-0_Q6TThFti!ZxT25.zip # Naughty_Voices
+    - https://vectorplexis.com/files/file/283-high-poly-head # High Poly Head SE
+    - https://vectorplexis.com/files/file/582-cosmetic-vampire-overhaul-hd # Cosmetic Vampire Overhaul HD SE
+    - https://www.skyrim-guild.com/s/DMCO_096.zip # DMCO VERSION 0.96
+    - https://www.mediafire.com/file/axqqgh7wgj8p2f9/SSE_SFW_Demonic_Creatures_V1.6.7z/file # Demonic Creatures SFW 1.6
+    - http://www.mediafire.com/file/q6ushh2gitezm27/Vanilla_Chokers_%2526_Earrings_%255BSE%255D.7z/file #Vanilla Chokers and Earrings
+    - https://mega.nz/file/bHZw1JLZ#2N1-yDAM4vim4IT-RN38laQvGFwozgt5MSZJC0AQrtE # DX DRUID HDT-SMP Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/11/BWB-Kaidan-2-Skyrims-Got-Talent-Patch-1.1.7z # Kaidan 2 BWB Skyrim Got Talent Patch
+    - https://mega.nz/file/dskQRaLQ#h_sP6kh6ow_QPjZWI4NpDWNCNlxSXWEmrBGe5o4D5_I # YEVMods Makeup Pack 2K
+    - https://mega.nz/file/aN9hRCqR#lVv0TvYnHbwoGOjbo9PhH8AjkPx1jK5FiOjSllneN-Y # ALT1 Eyebrows Standalone
+    - https://mega.nz/file/NIFnRQbC#hWeSPcijrZTuobbsf9XcbT7sQTEM2y8kcbcpHPps1Z8 # Kaidan Immersive Features (Kaidanmod.com)
+    - https://mega.nz/file/RZkF3ajR#wHxSibVlG4NS37fechPFS_-cnChvkPoCvbTvwLXNMhI # Kaidan AIO 1.6
+    - https://www.distaranimation.com/s/ValkyrieSwordShieldv013.zip # adxp mco valkyrie distar
+    - https://www.distaranimation.com/s/White-Fang-Dagger-v1.zip # adxp mco distar white fang dagger
+    - https://www.patreon.com/file?h=68538125&i=11164403 # elder souls rapier
+    - https://www.mediafire.com/file/jiog96bh1nyx44f/Odin+Valhalla+Rising+Draugr+Armor.7z/file # Odin valhalla rising draugr armor
+
+    
+    # TRUE VEGAS TTW
+
+    
+    # iAmMe's WoD
+    - https://www.mediafire.com/file/kfac38dni6d53rp/MiscHairstyle1.6_by_Atherisz.7z # Misc Hairstyles v1.6 by Atherisz
+    - https://www.moddingham.com/download/file.php?id=59 # AAF for FO4
+    - https://mega.nz/folder/R6BkiaYC#ApuvRJWeE2wWpMPneVdS2Q # Problems of Survivor for FO4
+    - https://cdn.discordapp.com/attachments/861766770062000128/875108471933108294/Immersive_Wastelanders_1.8.zip # Immersive Wastelanders v1.8
+    - https://www.mediafire.com/file/xoyhhu6hhs5cg6c/ZeX-ZBG-0223.zip # ZeX-ZBG-0223
+    - https://mega.nz/file/sftCgb6A#H47o1JIJqP57dvf3CUR3pcxHUiEyQJBPCghmI4nuyAg # Problems of Survivor v1.5.2 Voiced v1.1
+    - https://www.mediafire.com/file/5wprzl5ifvg1oht/Kziitd_F*t*sh_Toolset_1.0_Beta_2.3.7z # Kziitd Fetish Toolset 1.0 Beta 2.3
+    
+    # Do Not Go Gentle
+    - https://mega.nz/folder/VsQV2RjY#0hVLXv1g3Y7LkTlt9D7YtQ/file/V9pz2SCY # HG Hairdos 2
+    - https://www.skyrim-guild.com/s/Dodge-MCODXP-v202.zip # Dodge_MCO v2.0.2
+    - https://www.patreon.com/file?h=71562739&i=12132854 # ESkyrim's Precision patched Unarmed MCO Moveset
+    - https://www.patreon.com/file?h=76570894&i=12673922 # Fuse00's Amber hair
+    - https://www.patreon.com/file?h=75589695&i=12484434 # Fuse00's Siren hair
+    - https://www.patreon.com/file?h=68902488&i=12781379 # Fuse00's Sona Armor cbbe
+    - https://www.patreon.com/file?h=68902488&i=13158956 # Fuse00's Sona Armor male
+    - https://www.patreon.com/file?h=70803544&i=11554150 # Fuse00's Ragnar Armor male
+    - https://www.patreon.com/file?h=67711235&i=10980531 # Fuse00's Melonie Armor cbbe
+    - https://www.patreon.com/file?h=71131410&i=11736475 # Fuse00's Yen hair
+    - https://disk.yandex.ru/d/x1F2Gc8SWnZHfg # Beards from DDS Workshop
+    - https://www.patreon.com/file?h=69951525&i=11395543 # kingeric's attempt at a DAR crash fix
+    - https://www.patreon.com/file?h=80940548&i=13610342 # Fuse00's Spyro Axe and Shield
+    - https://www.patreon.com/file?h=86395571&i=15045081 # Fuse00's Hilda Hair
+    
+
+    # Dungeons & Daedra
+    - http://www.mediafire.com/file/zdm8rceqe70sgla/TD_Alternative_Books_Covers.7z/file # Alternative Book Covers
+    - http://www.mediafire.com/download/y7qlopk3w0rv7el/TD_Middleclass%20v%203.1.7z/file #TD_MiddleClass
+    - http://www.mediafire.com/?12pm1kub6wb1q7w/file #TD_Middleclass Replacer
+    - http://www.mediafire.com/file/jvbnoi2io6kp66i/TD_Tombstones.7z/file #TD_Tombstones
+    - http://www.mediafire.com/file/2f9lwl81th6vnua/TD_Unique_Skingrad.7z/file #TD Unique Skingrad
+    - http://www.mediafire.com/download/yfayo83k5cjr2t8/TD_Upperclass%20v%203.0.7z/file #TD Upperclass
+    - http://www.mediafire.com/download/5knlyey62zrmhf8/TD_Upperclass%20v%203.1.7z/file #TD Upperclass Update
+    - https://www.moddb.com/mods/vkvii-oblivion-anvil/downloads/vkvii-oblivion-anvil #VKVII Oblivion Anvil
+    - https://www.moddb.com/mods/vkvii-oblivion-castles/downloads/vkvii-oblivion-castles #VKVII Oblivion Castles
+    - https://www.moddb.com/mods/vkvii-oblivion-cathedrals/downloads/vkvii-oblivion-cathedrals #VKVII Oblivion Cathedrals
+    - https://www.moddb.com/mods/vkvii-oblivion-cyrodiil-map/downloads/vkvii-oblivion-cyrodiil-map #VKVII Oblivion Map
+    - https://www.moddb.com/mods/vkvii-oblivion-imperial-city/downloads/vkvii-oblivion-imperial-city #VKVII Imperial City
+    - https://www.moddb.com/mods/vkvii-oblivion-mages-guild-clutter/downloads/vkvii-oblivion-mages-guild-clutter #VKVII Mages Guild Clutter
+    - https://www.moddb.com/mods/vkvii-oblivion-sidewalks-stonewalls/downloads/vkvii-oblivion-sidewalk-stonewall #VKVII Oblivion Sidewalk
+    - https://github.com/llde/xOBSE/releases/download/22.7/xOBSE-22.7.zip #xOBSE 22.7
+    - https://github.com/TES5Edit/TES5Edit/releases/download/xedit-4.0.4/xEdit.4.0.4.7z #xEdit 4.04
+
+    # ElmoRim mod list
+    - https://mega.nz/file/da5gjY5T#6K6kXnnir3StJZgrcNg6ttroBIQja_zrNm4DYdGzZec # Smooth DAR Combat Dodge by Smooth: https://smooths.tistory.com/m/24
+    - https://uk1-dl.techpowerup.com/files/lRuEltm1PqDCk7udQVzhCQ/1672204919/nvngx_dlss_2.5.1.zip #nvidia dll for https://www.nexusmods.com/site/mods/502
+
+    # BarbWireBabe's & HanShotFirst's Kaidan Suite - After Special Request - KAIDANMOD.COM - 
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-3DNPC-Patch.7z # Kaidan 3DNPC Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-LOTD-Commentary.7z # Kaidan LOTD-Commentary
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-Fertility-Mode-Integration-v2.0.7z # Kaidan Fertility-Mode-Integration-v2
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-Immersive-Features-v8.5.7z # Kaidan Immersive-Features-v8
+    - https://kaidanmod.com/wp-content/uploads/2022/12/Kaidan-Immersive-Features-V9.3.2-1.7z # Kaidan Immersive Features v9.3.2
+    - https://kaidanmod.com/wp-content/uploads/2023/01/Kaidan-Immersive-Features-V9.3.4.7z # Kaidan Immersive Features v9.3.4
+    - https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Skyrims-Got-Talent-Patch.7z # Kaidan Skyrims-Got-Talent-Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-2-and-Inigo-Banter-Patch-v6.3.7z # Kaidan Inigo-Banter-Patch-v6
+    - https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Extended-Edition-V6.9.7z # Kaidan 2 Extended-Edition-V6
+    - https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Armor-Revamped-Wolf-75089-1-0-1663029519.7z # Kaidan Armor Revamped - Wolf
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-3DNPC-Patch.7z # Kaidan Interesting NPCs Commentary Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Lux-Patch.7z # Kaidan Lux Lighting Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Hans-Kaidan-Immersive-Features-Kaidans-Tent-Lux-Patch.7z # Kaidan Lux Tent Lighting Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/11/BWB-Kaidan-2-Slap-Da-Butt-1.1.7z # Kaidan Slap Da Butt Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/BWB-Kaidan-2-Im-Glad-Youre-Here-Patch.7z # Kaidan I'm Glad You're Here Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-Cheesemod.7z # Kaidan Cheesemod Commentary Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Kaidan-Fertility-Mode-Integration-v2.0.7z # Kaidan Fertility Mode Integration
+    - https://kaidanmod.com/wp-content/uploads/2022/11/Kaidan-Immersive-Features-V9.2.8.7z # Kaidan's Immersive Features
+    - https://kaidanmod.com/wp-content/uploads/2022/10/BWB_-_Kaidan_2_Fart_Patch_V2.7z # Kaidan Fart Patch
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Peeno-A-Mushroom-Follower-1.5.7z # Peeno - A Mushroom Follower
+    - https://kaidanmod.com/wp-content/uploads/2022/10/Katarsi-HIMBO-Bodyslide-Refit-75089-1-0-1663105034.zip # Kaidan Armor HIMBO
+    - https://kaidanmod.com/wp-content/uploads/2022/11/BWB-HSF-Kaidan-2-Extended-Edition-V8.2.1.7z # BWB HSF Kaidan 2 Extended Edition 8.2.1
+    - https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-8.3.0.7z # BWB HSF Kaidan 2 Extended Edition 8.3.0
+    - https://kaidanmod.com/wp-content/uploads/2022/12/BWB-HSF-Kaidan-2-Extended-Edition-V8.3.2.7z # BWB HSF Kaidan 2 Extended Edition 8.3.2
+    - https://kaidanmod.com/wp-content/uploads/2022/12/Kaidan-Immersive-Features-Ostim-V9.3.0.7z # Kaidan Immersive Features OStim 9.3.0
+
+    #Stunning Skyrim Overhaul
+    - https://mega.nz/file/ixMn2SQa#aaXRVcOEADR-W9O2uWLVOeK0nHmYX32euu6WjHfTFKA # XLODGen Output
+    - https://mega.nz/file/ywd1XZxK#4QRf8LHbR3F2RqBq625oc2roX6xrj_PjS7YHs5toKIc # Grass Cache
+    - https://mega.nz/file/m0F2wYbB#cQPgnR4dS97SJe_rNO1MvWG24U1lhEdGBbYnzBIJl0U # TexGen Output
+    - https://mega.nz/file/D8k11KgB#5XdTxiR_AH5_FOk5w1lirKIxa6w2g6hRpmq39c_rTCA # DynDOLOD Output
+
+    #VaultBoy's Modlist
+    - https://mega.nz/file/VaZCjbBY#DKCjLqjCPx6sgmOtS4bCQylc1kflXqB35SkazrAVRzs  # JH Animation Pack AMR+Fix SE:https://smooths.tistory.com/42
+
+   #LyssaLovelace
+    - https://mega.nz/file/TchXzQ4T#HXqaBbbub14sZ2MSfKpGboqoB3ehSdOaU1pRS3suZH4 #Black Desert Online Hair - For Fallout 4 https://www.trophihunter.com/fallout4-mods/black-desert-online-hairs
+    
+    #FUS
+    - https://developer.download.nvidia.com/assets/gameworks/downloads/regular/dlss/beta_program_1-20210923T201648Z-001.zip #Nvidia DLSS
+    
+    # Fable Lore
+    - https://www.patreon.com/file?h=70012838&i=12425533 # FreeFlyCam 13.2.5
+    - https://mega.nz/file/haoBFLAB#Bka9McxP2JiYrim2_n2djTib_zHVdK38VbkwiH116Hk # dTry's Key Utils NG
+    
+    # Fallout VR Essentials
+    - https://cdn.discordapp.com/attachments/408380736941588481/1059902935955427348/Companion_Heal_Thyself_v1.5.7z
+    - https://cdn.discordapp.com/attachments/929147656469626950/1086481190615265290/PANPC_2.0.12-stable.7z
+    - https://cdn.discordapp.com/attachments/929147656469626950/1191504488977137907/PANPC_2.0.13-stable.7z
+    - https://mega.nz/file/JupwTCRB#CnkwNVb5u4O9J7BBPL2T0Owd2AUKorL0XZ_oNJYNI2M
+    - https://mega.nz/file/9iYQmSjZ#6njpQ6cLdQDNY_eMhu-mGSmeTtFedKl50nanhHSSn8U
+    - https://mega.nz/file/F6RXGKYD#aNOkFvekCutniLe92b4DAyxNaDjbLxXMN2yGRDkKY4Q
+    
+    # Geborgen's Stuff (Nordic Souls)
+    - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-ASLAL-Patch.7z # Kaidan - ASLAL Patch
+    - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-Inigo-Banter-Patch.7z # Kaidan - Inigo Banter Patch
+    - https://kaidanmod.com/wp-content/uploads/2024/05/Kaidan-3DNPC-Patch.7z # Kaidan - 3DNPC Patch
+
+    # Parabellum by cacophony
+    - https://mega.nz/file/8zBCGJhI#apyUCBuGuZQ_5Va7iby02AEybzKLE25tSEcGML1C-Yg # Vtaw Wardrobe 8 2K v1.0
+    - https://mega.nz/file/1E8RHZ7Z#SWxMF3lT-4mfUYRgrlq1hhokeS_z1fplmiZJvaP1JNY # Vtaw Wardrobe 8 BodySlides
+    - https://mega.nz/file/QSZ2UQhQ#NiBll61rgvS8tqwO2PpP3OjfnrDds8JiYM73Sx8PqvQ # BodySlides
+    - https://mega.nz/file/4J9CCYaS#7WJjKmUpo3gMuaNSX42WIfCawbJfBeNgEB01XI-YDw8 # Vtaw Lana 1.0
+    - https://mega.nz/file/AE9ymaQS#te_ln4FdTQbrA9RM5z6PWfk9kGLa4edYIqCBdgLKb1E # Vtaw Lana BodySlides
+    - https://mega.nz/file/IctAERAD#qSKbeEd2CQN_8Ra52zas6dtjNwoGh7PQe6HY-6JHHj0 # Vtaw Overalls 1.1
+    - https://mega.nz/file/4c1GmDSL#-3PefFzPn8kkeuhsW8wJ7dV67BNsVJFyS6WpTYn1wOI # Vtaw Overalls BodySlides
+    - https://mega.nz/file/dRFFiQ4K#D7WSHLBIKAi5OGR1m6KjKXAYSNHFXC83v9UuzHRHrvI # Vtaw Nurse 1.0
+    - https://mega.nz/file/UZVnTKQZ#0_6_fpSuXEYW5sanAB6unqoW__D1LgCpB2II0sYdbzY # Vtaw Nurse BodySlides
+    - https://mega.nz/file/BENjSQJa#iA86ZwNy3DA7nSG6KFc6xl1yPWj4S1p9qdtNqwNqsPU # Vtaw Bunny 1.8
+    - https://mega.nz/file/ldM1FAhT#gYDq0LgcjB6DuXPnZ9S1T5GZrxzFpJN-fcLxgAg7WZ0 # Vtaw Bunny BodySlides
+    - https://mega.nz/file/BEVDEayY#HJYjF2qX-GMBGSsK_MxufWV4fwS7bcpsarFGcyQKpPw # Vtaw Academy 1.2
+    - https://mega.nz/file/wIN0hT5A#9cN9rQScrjEFP6IYCeJ3vfEVaC4JfE1zDbABMrYy_wc # Vtaw Academy BodySlides
+    - https://mega.nz/file/hRtxUJaL#jar5pH9JUANlZ-VMynlZewjC0eJK292kGxPAb4kKHkU # Vtaw July v1
+    - https://mega.nz/file/Zc0FRJjK#n7mdkJK8Pdpf8XwmDyKNEykIzePsV2Fbc45M_w4DXa0 # Vtaw July BodySlides
+    - https://mega.nz/file/oZEDCQKS#tZcfYd4t5Fmbi2y5hL3rpbubu_qI4nQ3WBzT2JamBVg # Vtaw Shadow Yamato 1.0
+    - https://mega.nz/file/cMEBAaqa#8h_G3KKIZTCKjEcBTx3IQVz28_rQfyeHzQxCQeR2mOg # Vtaw Shadow Yamato BodySlides
+    - https://mega.nz/file/hVdyQKKa#xAt8UB8Xrdpz0wVEX6iR2vpUJ6wW95e71xIdX2lPDdQ # Vtaw BattleSuit
+    - https://mega.nz/file/RRVQQABZ#6ecq-2JjasnEQq1l8jzXduBsOREjapc8o_Nk_jSQtPA # Vtaw BattleSuit BodySlides
+    - https://mega.nz/file/0B92DD4K#BUQb6ceDLgFKH0Sds0kyUtaDrLdL8C3s3kybhsqMeBE # Vtaw Club Dress 1.0
+    - https://mega.nz/file/oR1SHBIR#pl50BuL_z5V_fjIDQEc-Jml46kyuafFNRmScvyyGOdU # Vtaw Club Dress BodySlides
+    - https://mega.nz/file/VAF0Wb6A#HcKhaNxatW6TGbSMcG7lhDpwOXVmrnc-jtSLW_Cyt2s # Vtaw Kasuga
+    - https://mega.nz/file/xAdiERBB#pznFdv2_3fpwc2RupoP8W9UPInS4VVTkeUBLB_yIX2w # Vtaw Kasuga BodySlides
+    - https://mega.nz/file/5RdSFBTa#jedyvHWz5DCOR-taS4Zue5OBIt1xCQYDeNT6uptdF8E # Vtaw ActiveWear 1.0
+    - https://mega.nz/file/RdNC0bDS#Ll0yKD5imG-XAkNZrMFCIDqnpTpvRmGsp0GlrzGX8Ho # Vtaw ActiveWear BodySlides
+    - https://mega.nz/file/UIkETbxa#AAty_65_I9nRfN9TffEPBINPpBx5zOXV9CkVoN4A888 # Vtaw Sweet Dress v1
+    - https://mega.nz/file/8Ml2TJKJ#RzJpP8STFgV2m3rc5kji4gO0advbkigfgFH4zEMs2-M # Vtaw Sweet Dress BodySlides
+    - https://mega.nz/file/5F10lDgC#xy83Rlfvh8Vg2oiQ3mF1_CyyEMxLVsmfhdt5E7Axzcs # Vtaw 2022 March Dress 1.0
+    - https://mega.nz/file/Mc1XxI6R#c2ptTrquyRiiZe5uBgxFZmQX7lMnBmyqmuamK11dld4 # Vtaw March Dress BodySlides
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/2tx0WJ5B # Nuka Ride 6.2.1
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/HooF3L7J # Nuka Ride 6.2.4
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/jxgACYaZ # Nuka Ride 6.3.3
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/T9RUyRKR # Nuka Ride 6.3.6
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/n8RgBTII # Nuka Ride 6 Bodyslide for CBBE 1.03
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/HooF3L7J # Nuka Ride 6.2 BodySlide for CBBE 1.04
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/T5pS1JAB # Nuka Ride 6.3 BodySlide for CBBE 1.2
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/ngxSSb7C # Nuka Ride 6.3 BodySlide for CBBE 1.3
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/r9gT2JYA # Nuka Ride 6.1 Voices by Axary (xVASynth ) and Kalistara (11labs) 1.0
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/X15TRJya # Nuka Ride 6.3.6 Scooter HotFix
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/GlhlkIZJ # Nuka Ride 6.4.0
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/Kh5ChbAQ # Nuka Ride 6.4.1
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/H5g2Vb5S # Nuka Ride 6.4.2
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/7gggXAhQ # Nuka Ride 6.4.3
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/Tgwk1QTC # Nuka Ride Main Menu
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/y54VQLha # Nuka Ride 6.4.4
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/PhpQAC7J # Nuka Ride 6.4.5
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/HwJiBLLQ # Nuka Ride 6.4.6
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/L9gg0LpI # Nuka Ride 6.4.7
+    - https://mega.nz/folder/HxwTyQiQ#P139pOMVYKfW_5GuGJqXAA/file/WxZEALzS # Nuka Ride 6.7.6
+    - https://mega.nz/folder/vlRzFIaS#CgeMqhCfNylqHPb3DmMG-Q/file/X5w3AKTA # Nuka Ride 6.3 BodySlide for CBBE 1.4
+    - https://mega.nz/folder/HxwTyQiQ#P139pOMVYKfW_5GuGJqXAA/file/qtBCzJBA # Nuka Ride 6.7 BodySlide for CBBE 1.1
+    - https://mega.nz/folder/HxwTyQiQ#P139pOMVYKfW_5GuGJqXAA/file/vxhBCahL # Nuka Ride PC Female Idles
+    - https://mega.nz/folder/HxwTyQiQ#P139pOMVYKfW_5GuGJqXAA/file/atRCBZrI # Nuka Ride Random Menus
+    - https://mega.nz/file/viIQkKQZ#qABDruPixRI0B-pb9vWV2u-uf2Gt7pfGq9zWlLJeDgk # Nuka Ride - The Previous Girl
+    - https://www.mediafire.com/file/flx0mao5fn7v541/Kziitd_F*t*sh_Toolset_-_Bodyslide_1.0_Beta_1.7z/file # Kziitd Toolset BodySlides 1.0 Beta 1
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/XlYAlRiD # Nuke Ride 6.8.0i
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/G5pS3bRI # Nuka Ride 6.8 BodySlide for CBBE
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/akpwQILS # Nuka Ride Random Main Menu Themes 6.8
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/SthnQRxB # Nuka Ride Facegen for Nexgen
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/a0RxhJBL # Nuka Ride PC Female Idles
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/akpwQILS # Nuka Ride Random Menus 6.8
+    - https://mega.nz/folder/DtBHSbwA#KdRrNKOWY9Mus8hB6iSI0w/file/KwJW1JhB # Nuka Ride 6.8.1b
+    
+
+    # More of caco's Cringe
+    
+    - https://www.mediafire.com/file/jawkdmiu75gxa3s/AFS+redone+0.7.zip/file # A Forsworn Story Redone 0.7
+    - https://cdn.discordapp.com/attachments/1053054518172069918/1109366076569047060/PPlus_1.8.2.5-MergedPatch.zip # SexLab PPLUS Sort Positions + Init + SLSO Patch Merge
+    - https://migal3d.com/downloads/NaughtyVoices_2-3-ST19x8U4TjffK2f4b2U.zip # Naughty Voices 2.3
+    - https://migal3d.com/downloads/OPrivacy_2-7b-Yu29g3453YqWER9J.zip # OPrivacy 2.7b
+    - https://migal3d.com/downloads/Excitable_Subs-1-3b_22qFtUhQT6G427.zip # Excitable Subs 1.3b
+    - https://mega.nz/file/x7BE3aLY#UfBp2PdATkHcNET4bIDUHwwyVA4r8zTS8_misjkWA1o # SexLab Succubus Twins
+    - https://mega.nz/file/IJVEhS5b#iSRmGwB_cwbDbbOUn3iR46QChlbvL5gdOxrNqzR28Eo # Kaidan Extended All-In-One 1.1
+    - https://mega.nz/file/dIUXnSoA#1c7ZoEmeYuNYahhfH4L8dfhLdeXsPLFn6c6TiibjVf4 # Kaidan Extended All-In-One 1.2
+    - https://mega.nz/file/1Q1igILL#LC48moa78K_TsM4DDYFR90nOmeeqkde0e4SsFzzlldg # Kaidan Extended All-In-One 1.7.5
+    - https://mega.nz/file/MIUUzA4Q#SDrMDFLry-Gxu87X4ugZgGRZNBVIW78iov9UiciXPJs # Kaidan Extended All-In-One 1.8.2
+    - https://mega.nz/file/MIUUzA4Q#SDrMDFLry-Gxu87X4ugZgGRZNBVIW78iov9UiciXPJs # Kaidan Extended All-In-One 1.8.3
+    - https://mega.nz/file/wcMX2bbY#pclC-VmYq95zTcxggFmW7Khj6nKA2xJ2C11XT8ypT_s # Kaidan Extended All-In-One 1.8.4
+    - https://mega.nz/file/RQ113BKT#qoYV6zZQsugesTYIFXqFv4_64MixzwRzH4Hk1jZqTGM # Kaidan Extended All-In-One 1.8.5
+    - https://mega.nz/file/pBFxWCIT#6tloxS06ozUFlm9L9hAhZxcZsu3yjJWjdqCC4FGXcQk # Kaidan Extended All-In-One 1.9.2
+    - https://mega.nz/file/0dcilQ6Y#LZbAPMNQmKdd2ZCOOaJesRi15v6n-9wuT37KM6FiwEA # Kaidan Extended All-In-One 1.9.9.1
+    - https://mega.nz/file/8A0Q3BaL#runJx3MQkTHyon04ygzjbCjY8AusO8E2rOSLBGO9A9s # Kaidan Extended All-In-One 2.1.3
+    - https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/9DoUlSKL # BakaFactory ABC
+    - https://mega.nz/file/MUkzBZrS#8MVyh5H4jlZIuK2mhhCcsL6NYBl6lElOvyDbxLJ99qA # MEGA version of Peeno 1.5
+    - https://www.patreon.com/file?h=88365776&i=15560430 # Acheron 1.4
+    - https://www.patreon.com/file?h=88365776&i=16705519 # Acheron 1.4.0.1
+    - https://www.patreon.com/file?h=88365776&i=17017519 # Acheron 1.4.1.0
+    - https://mega.nz/folder/YGwzCDYR#cZ686f1BwjmB4bErUzlOiw/file/waw1EKiR # BakaFactory ABC
+    - https://mega.nz/file/QEJHyaaC#b9lTNnl-WnN_YJqYRBYHIptG5DQ0RqHREtkG7rJYKTA # xLODGen 106
+    - https://mega.nz/file/cYoVxTQB#02e5aa4Q60bzHk6L3lROX0gzwzo45n_ah4IEvSrPmZ4 # xLODGen 109
+
+    # Brii
+    - https://mega.nz/file/9IhgmAiA#K37BG0fYfe15oOqbfhNjDgrzDGjRjFJHmuZs_yRNvIY # xLODGen 7z Archive
+
+    #OpenMW Enhanced
+    - https://forum.openmw.org/download/file.php?id=1893&sid=41f64d1d1c31f9a809a7f7165d4b432b # Welcome to the Arena OpenMW Patch
+    - https://www.dropbox.com/s/sqxbej0nef7bg9e/Uviriths_Legacy_3.53.7z?dl=0 # Uvirith's Legacy
+    - https://mega.nz/file/xJVHGQ5K#dyRwJYSasRxFtCmSJrqZw5Hk7xVXpe3BQ-1m8KhTPOU # Balmora Normal Road Maps
+    - https://baturin.org/misc/morrowind-mods/gondoliers_license.zip # Gondoliers License
+    - https://baturin.org/misc/morrowind-mods/fargoths_mountain_hut.zip # Fargoths Mountain Hunt
+    - https://baturin.org/misc/morrowind-mods/imperial_skirt.zip #Imperial Skirt
+
+    # Skyrim Fuckery Armors
+    - https://mega.nz/file/SMlzASbZ#cz-o5g_E3UeWfqjg02KQhifZj8VUgtEHLSvo_bSHXL0 # Adventurer's Wardrobe
+    - https://mega.nz/file/CY1yjQTJ#m49LuXaGQW2aVGw6EOF-XYcfC3WGLWit8-28PihQ53s # Brigandine Redux Armor Pack
+    - https://mega.nz/file/OVEVFYRQ#zav8-fIqdO85XgZ6VRn2kTBR5Hpl7rDblie5m19Mg1g # Lorisian Armour
+
+    # Char Grinn NSFW
+    - https://www.mediafire.com/file/t2jjzedv5ptphmn/[Christine]+Dragon+Berserkr+v4.7z/file # [Christine] Dragon Berserkr: SunJeong
+    - https://www.mediafire.com/file/7wcf7qv2yxqvo67/[Christine]+Dragon+Marauder.7z/file # [Christine] Dragon Marauder: SunJeong
+    - https://www.mediafire.com/file/k0sfec6ty2fhei9/[Christine]+Gladiatorae+Pack.7z/file # [Christine] Gladatore: SunJeong
+    - https://www.mediafire.com/file/3ozib9coi1vz1rr/[Christine]+High+Priestess+Bikini.7z/file # [Christine] High Priestess Bikini: SunJeong
+    - https://www.mediafire.com/file/jkt1yizlwf5nh4x/[NINI]+Cristal+See-Through.7z/file # [NINI] Cristal See-Through: SunJeong
+    - https://www.mediafire.com/file/0aup2o6nasgp286/[NINI]+Deified.7z/file # [NINI] Defied: SunJeong
+    - https://www.mediafire.com/file/chu7an3jow3b5eo/[NINI]+Karlstein.7z/file # [NINI] Karlstein: SunJeong
+    - https://www.mediafire.com/file/bsfusujpep24gv3/[NINI]+Red+Nose.7z/file # [NINI] Red Nose: SunJeong
+    - https://www.mediafire.com/file/31rtp8makdnazxi/[Christine]+Venom+Blade+Maiden.7z/file # [Christine] Venom Blade Maiden
+    - https://www.patreon.com/file?h=62876423&i=10119123 # [FUSE] Dreadlocks
+    - https://dl.dropboxusercontent.com/scl/fi/i2ru8u1grk4ew3w6pyxvi/Dodge-MCO-DXP-v2.1.20.zip?rlkey=b3ww8aoi67g1avljn88np0ti1&dl=0 # [Modding Guild] MCO Dodge 2.1.2.0
+
+    # Fallout Anomaly
+    - https://storage.icestormng-mods.de/s/Jp9nfE8g4iQmyy8/download?path=%2F1.2%2FRelease&files=IceStorms%20Hair%201.2.7z&downloadStartSecret=s0bm398ive # Haircut mod by IceStormNG
+
+    # Kezyma's Morrowind Remastered
+    - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4454
+    - https://www.fullrest.ru/files/tyd_landscape-texture_compilation_1/files?fid=4453
+
+    # Skyrim GMOH
+    - https://www.patreon.com/file?h=70357498&i=11588543 # Gentle Blade Set 3BA CBBE (HDT-SMP) v4.5
+    - https://mega.nz/file/bf4VhaCb#WF35skdDrj-yQu_tcdrJ2NGQj0vpNbywutN5tQ2mQ5w # RyanReos Bladedancer
+    - https://mega.nz/file/CCoVBSKZ#AKeC07-8IppzNieVBxjuM7c4riJnSHigSZHUjV68yjM # RyanReos High Priestess
+
+    # Steve40 Mods
+    - https://www.dropbox.com/s/3tlt2734s3r97hg/skyBirds SSE Edition v1.20.7z?dl=1 # SkyBirds SSE 1.2
+    - https://www.dropbox.com/s/0zmfolkcxrpv5d0/Birds of Skyrim SSE Edition 2.7.7z?dl=1 # Birds Of Skyrim SSE 2.7
+    - https://www.dropbox.com/s/iv7wov5tdmslcin/Birds and Flocks SSE Edition v2.1.7z?dl=1 # Birds and Flocks 2.1.7
+    
+    # The Nico Experience
+    - https://mega.nz/file/zHRDhQBK#yJ9vhNaNwqQpUzHPCcR0n2UrpOF1oG3AJL4FL_MYHQw # BDOR Complete Collection by Kirax
+
+    # By caco on behalf of MissCorruption, Masterstroke dev
+    - https://subscribestar.adult/posts/905582 # BakaFactory SLAL Animation 6.41V LE / SE
+    - https://subscribestar.adult/posts/993525 # Baka Motion Pack
+
+     # N.Y.A NSFW Skyrim
+    - https://www.mediafire.com/file/xcrzwu3757co1pm/Automated_SLSB_Conversions_0.6c.7z/file # Animation Pack Conversion by BabyImpala with Permission
+    - https://www.mediafire.com/file/j386qo0w4qjm1b3/More_Nasty_Critters_Animations_SE_V15_4.7z/file # Merged Version of all 3 SplitVolumnes by MoreNastyCritters
+    - https://cdn.discordapp.com/attachments/1063514401375780874/1198357469903204383/SexLab_Framework_PPLUS_-_V2.3.2.1_-_1.5.97.zip?ex=65da4bdd&is=65c7d6dd&hm=3121fe0ab2594a7a661e07a0d19c0dafe7f72813946e2be02479e04977e51a9b& # Sexlab + 2.3.2.1 / SE 1.5.9.7 ( Inline Permission from Scrab )
+    - http://www.mediafire.com/file/o5yacfkx21p3b8i/Sexlab_DLL_16640_Replacer.rar # Sexlab Framework 16640 Working DLL ( Inline Permission from Scrab )
+    - https://cdn.discordapp.com/attachments/1177560192192352336/1178355556113731604/SexLab_P_Quick_Scene_Start_Spell_-_4.0.0.zip?ex=65db5ba1&is=65c8e6a1&hm=0afebe8fd8aedc5ce84171cc1b0d649fd62bbe888f4d75c89f95fcdb6c34ab4c& # Sexlab + Quick Spell Inline ( Proof as Screenshot in File )
+    - https://www.patreon.com/posts/edge-ui-0-55-98401985 # Edge UI 0.55 Public Release
+    - https://mega.nz/file/9moCWSDB#PWuH6fkHj_JHquUBucIt6AZXOcWgcnMofarrq4mPJWY # SexyBono Eyes by immyneedscake
+    - https://mega.nz/file/PaRXiQBK#PZyU2kfU2XEVIiuT1B1C82MCb8sKv5Ozg8QY9ls1dsY # Morningstar Wing SMP by immyneedscake
+    - https://www.mediafire.com/file/9e000wxv51i4afw/iAm_fixes_Vominheim.rar/file # iAm_fixes_Vominheim ( Permission to uplaod )
+    - https://www.mediafire.com/file/g1ei06w0wd6hlsd/[Cloud]+Hex+Tenebris+-+3BA.zip/file # -3BA version
+
+    # Modlist Installers for Baldur's Gate 3
+    - https://f.rpghq.org/KwIMvdbW7egG.zip?n=DignifyLadies-v3.1.0.zip # Dignify: Ladies (3.1.0)
+    - https://f.rpghq.org/LI59aIYHDquV.zip?n=DignifyGentlemen-v1.0.zip # Dignify: Gentleman (1.0)
+    - https://f.rpghq.org/sRW7r3Bg4WVx.zip?n=DignifyAstarionLeather-v1.0.zip # Dignify: Astarion Leather (1.0)
+    - https://f.rpghq.org/EaZ81uMouKEL.zip?n=DignifyGale-v1.0.zip # Dignify: Gale (1.0)
+    # Faerun Enhanced - BG3 (from zino)
+    - https://drive.google.com/file/d/1pofLcmBatfn9H5xfXgMXu-xwEoR4DZHz/view?usp=sharing # MANTIS' OC PRESETS VOL. I - BG3 Preset Collection
+    - https://www.patreon.com/file?h=102509958&i=18601507 # MANTIS' GAME OF THRONES PRESETS - BG3 Preset Collection
+    - https://www.patreon.com/file?h=102510023&i=18604004 # MANTIS' WITCHER INSPIRED PRESETS - BG3 Preset Collection
+    - https://drive.google.com/file/d/1PNeTExH0tEeaOPr4JocXCKff23iTD365/view?usp=sharing # MANTIS' HOUSE OF THE DRAGON PRESETS - BG3 Preset Collection
+    - https://www.patreon.com/file?h=102506271&i=18535437 # MANTIS' LORD OF THE RINGS PRESETS - BG3 Preset Collection
+
+    # Atelier 2 Screenarchery Locations - Alabast
+    - https://www.mediafire.com/file/q8uvt66g2ey6plk/GomaPeroLand_SE_V6.7z/file # GomaPeroLand
+    - https://www.mediafire.com/file/m8tweucxev95rsx/Aether_Suite_SE.7z/file # Aether Suite
+
+    # NV:MP RADD Server Mods
+    - https://murica-east-cdn.nv-mp.com/NVMP-Q.esp # NVMP-Q.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Jr.esp # NVMP_-_Jr.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Jr.bsa # NVMP_-_Jr.bsa - Server Mod Asset Archive
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Pres.esp # NVMP_-_Pres.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Pres.bsa # NVMP_-_Pres.bsa - Server Mod Asset Archive
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Breezy.esp # NVMP_-_Breezy.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/NVMP_-_Grimm.esp # NVMP_-_Grimm.esp - Server Mod
+    - https://murica-east-cdn.nv-mp.com/SanFran.esm # SanFran.esm - Server Mod
+    - https://murica-east-cdn.nv-mp.com/SanFran%20-%20Main.bsa # SanFran - Main.bsa - Server Mod Asset Archive
+    
+    # SubScribeStar Test
+
+    - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1302296/c7b7c94e-d5e5-4849-8e7f-c9f6741c0ad4.zip # Baka SLAL 6.90
+    - https://ss-uploads-prod.b-cdn.net/uploads_v2/users/156627/posts/1142672/e0f2f9ed-a105-41c9-89e5-a316941b9657.7z # Baka ABC 3.10
